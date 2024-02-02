@@ -110,7 +110,7 @@ result_counter = 1  # 每个频道需要的个数
 
 with open("itvlist.m3u", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('#EXTM3U\n')
+    file.write('央视频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' in channel_name:
@@ -121,10 +121,10 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                     file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
-               file.write(f"{channel_name},{channel_url}\n")
+                file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
         channel_counters = {}
-    file.write('\n')
+    file.write('河南频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '河南' in channel_name:
@@ -132,13 +132,13 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                   file.write(f"{channel_name},{channel_url}\n")
+                    file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     channel_counters = {}
-    file.write('\n')
+    file.write('卫视频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '卫视' in channel_name:
@@ -152,7 +152,7 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     channel_counters = {}
-    file.write('\n')
+    file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
