@@ -118,10 +118,10 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                    file.write(f"{channel_name},{channel_url}\n")
+                    file.write(f'#EXTINF:-1 tvg-logo="{channel_name}" tvg-id="{channel_name}"\n{channel_url}\n)')
                     channel_counters[channel_name] += 1
             else:
-                file.write(f"{channel_name},{channel_url}\n")
+                file.write(f'#EXTINF:-1 tvg-logo="{channel_name}" tvg-id="{channel_name}"\n{channel_url}\n)')
                 channel_counters[channel_name] = 1
         channel_counters = {}
     file.write('河南频道,#genre#\n')
@@ -165,17 +165,3 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
-# txt转换m3u
-def convert_to_m3u(filepath):
-    with open(filepath) as file:
-        lines = [line.strip() for line in file]
-    
-    m3u_content = "#EXTM3U\n" + "\n".join([f'#EXTINF:-1 tvg-id="channel{i}" group-title="{lines[i]}", {lines[i+1]}' for i in range(0, len(lines), 2)])
-    
-    return m3u_content
- 
-filepath = "itvlist.txt" # 输入txt文件路径
-output_filepath = "itvlist.m3u" # 输出M3U文件路径
- 
-with open(output_filepath, 'w') as output_file:
-    output_file.write(convert_to_m3u(filepath))
