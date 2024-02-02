@@ -95,7 +95,7 @@ results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 results.sort(key=lambda x: channel_key(x[0]))
 
 # 将结果写入文件
-with open("itv_results.m3u", 'w', encoding='utf-8') as file:
+with open("itv_results.txt", 'w', encoding='utf-8') as file:
     for result in results:
         channel_name, channel_url, speed = result
         file.write(f"{channel_name},{channel_url},{speed}\n")
