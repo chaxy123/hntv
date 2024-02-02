@@ -165,3 +165,14 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+# txt转换m3u
+def convert_to_m3u(filepath):
+    with open(filepath) as file:
+        lines = [line.strip() for line in file]
+    
+    output_lines = ['#EXTM3U'] + lines
+    
+    with open('itvlist.m3u', 'w') as output_file:
+        output_file.write('\n'.join(output_lines))
+        
+convert_to_m3u('itvlist.txt')
