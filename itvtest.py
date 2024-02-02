@@ -118,10 +118,10 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                    file.write(f"#EXTINF:-1,tvg-id="{channel_name}" tvg-name="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="央视",{channel_name}{channel_url}\n")
+                    file.write(f"'#EXTINF:-1,tvg-id='"{channel_name}" 'tvg-name='"{channel_name}" 'tvg-logo="https://epg.112114.xyz/logo/'{channel_name}'.png"' 'group-title="央视"',{channel_name}\n{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
-                file.write(f"#EXTINF:-1,tvg-id="{channel_name}" tvg-name="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="央视",{channel_name}{channel_url}\n")
+                file.write(f"'#EXTINF:-1,tvg-id='"{channel_name}" 'tvg-name='"{channel_name}" 'tvg-logo="https://epg.112114.xyz/logo/'{channel_name}'.png"' 'group-title="央视"',{channel_name}\n{channel_url}\n")
                 channel_counters[channel_name] = 1
         channel_counters = {}
     file.write('\n')
