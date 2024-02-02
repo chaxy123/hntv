@@ -108,9 +108,8 @@ with open("itv_speed.txt", 'w', encoding='utf-8') as file:
 
 result_counter = 2  # 每个频道需要的个数
 
-with open("itvlist.m3u", 'w', encoding='utf-8') as file:
+with open("itvlist.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('#EXTM3U\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' in channel_name:
@@ -118,23 +117,10 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                    file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="央视",{channel_name}\n{channel_url}\n')
+                    file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
-                file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="央视",{channel_name}\n{channel_url}\n')
-                channel_counters[channel_name] = 1
-        channel_counters = {}
-    for result in results:
-        channel_name, channel_url, speed = result
-        if '河南' in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="河南",{channel_name}\n{channel_url}\n')
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="河南",{channel_name}\n{channel_url}\n')
+                file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     channel_counters = {}
     for result in results:
@@ -144,10 +130,10 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                    file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="卫视",{channel_name}\n{channel_url}\n')
+                    file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
-                file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="卫视",{channel_name}\n{channel_url}\n')
+                file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     channel_counters = {}
     for result in results:
@@ -157,8 +143,8 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                    file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="其他",{channel_name}\n{channel_url}\n')
+                    file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
-                file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title="其他",{channel_name}\n{channel_url}\n')
+                file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
