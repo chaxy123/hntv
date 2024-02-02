@@ -170,9 +170,12 @@ def convert_to_m3u(filepath):
     with open(filepath) as file:
         lines = [line.strip() for line in file]
     
-    output_lines = ['#EXTM3U'] + lines
+    m3u_content = "#EXTM3U\n" + "\n".join([f'#EXTINF:-1 tvg-id="channel{i}" group-title="{lines[i]}", {lines[i+1]}' for i in range(0, len(lines), 2)])
     
-    with open('itvlist.m3u', 'w') as output_file:
-        output_file.write('\n'.join(output_lines))
-        
-convert_to_m3u('itvlist.txt')
+    return m3u_content
+ 
+filepath = "itvlist.txt" # 输入txt文件路径
+output_filepath = "itvlist.m3u" # 输出M3U文件路径
+ 
+with open(output_filepath, 'w') as output_file:
+    output_file.write(convert_to_m3u(filepath))
