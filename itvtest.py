@@ -109,7 +109,7 @@ with open("itv_speed.txt", 'w', encoding='utf-8') as file:
 result_counter = 1  # 每个频道需要的个数
 
 with open("itvlist.m3u", 'w', encoding='utf-8') as file:
-    channel_counters = {}
+    channel_counters = 1
     file.write('#EXTM3U\n')
     for result in results:
         channel_name, channel_url, speed = result
