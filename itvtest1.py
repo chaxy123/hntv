@@ -25,7 +25,7 @@ with open("itvlist.txt", 'r', encoding='utf-8') as file:
             channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
-def worker():
+
 
 
 
