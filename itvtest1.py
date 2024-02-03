@@ -106,7 +106,7 @@ with open("itv_speed.txt", 'w', encoding='utf-8') as file:
         file.write(f"{channel_name},{channel_url}\n")
 
 
-result_counter = 1  # 每个频道需要的个数
+result_counter = 5  # 每个频道需要的个数
 
 with open("itvlist.m3u", 'w', encoding='utf-8') as file:
     channel_counters = {}
@@ -152,7 +152,7 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
     channel_counters = {}
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
+        if 'CCTV' not in channel_name and '卫视' not in channel_name  and '河南' not in channel_name and '测试' not in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
