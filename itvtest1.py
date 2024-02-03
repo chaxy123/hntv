@@ -22,17 +22,15 @@ channels.sort(key=lambda x: channel_key(x[0]))
 
 # 生成itvlist.m3ut文件
 with open('itvlist.m3u', 'w', encoding='utf-8') as file:
-   file.write('#EXTM3U\n')
+ file.write('央视频道,#genre#\n')
     for channel, address in channels:
         if 'cctv' in channel.lower():
-            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="央视",{channel}\n{address}\n')
-      for channel, address in channels:
-        if '河南' in channel:
-            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="河南",{channel}\n{address}\n')
-          for channel, address in channels:
+            file.write(f'{channel},{address}\n')
+    file.write('卫视频道,#genre#\n')
+    for channel, address in channels:
         if '卫视' in channel:
-            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="卫视",{channel}\n{address}\n')
-     for channel, address in channels:
-        if 'cctv' not in channel.lower() and '卫视' not in channel and '河南' not in channel:
-            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="其他",{channel}\n{address}\n')
-
+            file.write(f'{channel},{address}\n')
+    file.write('其他频道,#genre#\n')
+    for channel, address in channels:
+        if 'cctv' not in channel.lower() and '卫视' not in channel:
+            file.write(f'{channel},{address}\n')
