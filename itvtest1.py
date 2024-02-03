@@ -27,28 +27,6 @@ with open("itvlist.txt", 'r', encoding='utf-8') as file:
 # 定义工作线程函数
 
 
-
-# 创建多个工作线程
-num_threads = 10
-for _ in range(num_threads):
-    t = threading.Thread(target=worker, daemon=True)  # 将工作线程设置为守护线程
-    t.start()
-
-# 添加下载任务到队列
-for channel in channels:
-    task_queue.put(channel)
-
-# 等待所有任务完成
-task_queue.join()
-
-
-def channel_key(channel_name):
-    match = re.search(r'\d+', channel_name)
-    if match:
-        return int(match.group())
-    else:
-        return float('inf')  # 返回一个无穷大的数字作为关键字
-
 # 对频道进行排序
 results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 results.sort(key=lambda x: channel_key(x[0]))
