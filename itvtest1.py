@@ -29,11 +29,7 @@ with open("itvlist.txt", 'r', encoding='utf-8') as file:
 
 
 
-# 创建多个工作线程
-num_threads = 10
-for _ in range(num_threads):
-    t = threading.Thread(target=worker, daemon=True)  # 将工作线程设置为守护线程
-    t.start()
+
 
 # 添加下载任务到队列
 for channel in channels:
