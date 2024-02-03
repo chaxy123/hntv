@@ -31,7 +31,7 @@ channels.sort(key=lambda x: channel_name_key(x[0]))
 
 # 生成itvlist.m3ut文件
 with open('itvlist.m3u', 'w', encoding='utf-8') as file:
-   channel_name_counters = {}
+    channel_counters = {}
     file.write('#EXTM3U\n')
     for result in results:
         channel_name, channel_url, speed = result
