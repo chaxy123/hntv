@@ -1,7 +1,7 @@
 import re
-# 读取iptv.txt文件，提取频道信息
+# 读取itvlist.txt文件，提取频道信息
 channels = []
-with open('IPTV.txt', 'r', encoding='utf-8') as file:
+with open('itvlist.txt', 'r', encoding='utf-8') as file:
     for line in file:
         line = line.strip()
         if line:
@@ -25,16 +25,16 @@ with open('itvlist.m3u', 'w', encoding='utf-8') as file:
     file.write('#EXTM3U\n')
     for channel, address in channels:
         if 'cctv' in channel.lower():
-            file.write(f'{channel},{address}\n')(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="央视",{channel}\n{address}\n')
+            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="央视",{channel}\n{address}\n')
 
     for channel, address in channels:
         if '河南' in channel:
-            file.write(f'{channel},{address}\n')(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="河南",{channel}\n{address}\n')
+            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="河南",{channel}\n{address}\n')
 
     for channel, address in channels:
         if '卫视' in channel:
-            file.write(f'{channel},{address}\n')(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="卫视",{channel}\n{address}\n')
+            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="卫视",{channel}\n{address}\n')
 
     for channel, address in channels:
         if 'cctv' not in channel.lower() and '卫视' not in channel and '河南' not in channel:
-            file.write(f'{channel},{address}\n')
+            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="其他",{channel}\n{address}\n')
