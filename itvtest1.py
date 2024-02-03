@@ -31,12 +31,7 @@ with open("itvlist.txt", 'r', encoding='utf-8') as file:
 
 
 
-# 添加下载任务到队列
-for channel in channels:
-    task_queue.put(channel)
 
-# 等待所有任务完成
-task_queue.join()
 
 
 def channel_key(channel_name):
