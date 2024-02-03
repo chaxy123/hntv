@@ -8,6 +8,7 @@ import eventlet
 eventlet.monkey_patch()
 
 # 读取itvlist.txt文件，提取频道信息
+results = []
 channels = []
 with open('itvlist.txt', 'r', encoding='utf-8') as file:
     for line in file:
