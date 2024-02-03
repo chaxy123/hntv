@@ -34,7 +34,11 @@ with open('itvlist.m3u', 'w', encoding='utf-8') as file:
     for channel, address in channels:
         if '卫视' in channel:
             file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="卫视",{channel}\n{address}\n')
-
+    
     for channel, address in channels:
-        if 'cctv' not in channel.lower() and '卫视' not in channel and '河南' not in channel:
+        if '凤凰' in channel:
+            file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="香港",{channel}\n{address}\n')
+    
+    for channel, address in channels:
+        if 'cctv' not in channel.lower() and '卫视' not in channel and '河南' not in channel and '凤凰' not in channel:
             file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="其他",{channel}\n{address}\n')
