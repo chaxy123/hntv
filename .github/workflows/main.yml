@@ -45,16 +45,16 @@ jobs:
       - name: Run itvtest
         run: python ${{ github.workspace }}/itvtest.py
 
-              - name: Run itvtest2
+        - name: Run itvtest2
         run: python ${{ github.workspace }}/itvtest2.py
 
-      - name: Run itvtest1
+       - name: Run itvtest1
         run: python ${{ github.workspace }}/itvtest1.py
 
-              - name: Run itvtest3
+        - name: Run itvtest3
         run: python ${{ github.workspace }}/itvtest3.py
 
-              - name: Run hecheng
+        - name: Run hecheng
         run: python ${{ github.workspace }}/hecheng.py
         
       - name: Upload a Build Artifact
