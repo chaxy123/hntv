@@ -20,10 +20,9 @@ def channel_key(channel):
 # 对频道进行排序
 channels.sort(key=lambda x: channel_key(x[0]))
 
-# 生成iptv_list.txt文件
+# 生成iptv_list.m3u文件
 with open('itvlist.m3u', 'w', encoding='utf-8') as file:
     file.write('#EXTM3U\n')
     for channel, address in channels:
         if 'cctv' in channel.lower():
             file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="央视",{channel}\n{address}\n')
-
