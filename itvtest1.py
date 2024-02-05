@@ -27,5 +27,5 @@ with open('itvlist.m3u', 'w', encoding='utf-8') as file:
         if 'cctv' in channel.lower():
             file.write(f'#EXTINF:-1 tvg-id="{channel}" tvg-logo="https://epg.112114.xyz/logo/{channel}.png" group-title="央视",{channel}\n{address}\n')
 
-    else
+    except
       pass
