@@ -1,7 +1,7 @@
 import re
 # 读取itvlist.txt文件，提取频道信息
 channels = []
-with open('itvlist.txt', 'r', encoding='utf-8') as file:
+with open('itvlist1.txt', 'r', encoding='utf-8') as file:
     for line in file:
         line = line.strip()
         if line:
@@ -21,7 +21,7 @@ def channel_key(channel):
 channels.sort(key=lambda x: channel_key(x[0]))
 
 # 生成iptv_list.m3u文件
-with open('itvlist.m3u', 'w', encoding='utf-8') as file:
+with open('itvlist1.m3u', 'w', encoding='utf-8') as file:
     file.write('#EXTM3U\n')
     for channel, address in channels:
         if 'cctv' in channel.lower():
