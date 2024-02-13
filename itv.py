@@ -191,6 +191,9 @@ for url in urls:
                     if isinstance(item, dict):
                         name = item.get('name')
                         urlx = item.get('url')
+                        if ',' in urlx:
+                            urlx=f"aaaaaaaa"
+                            
                         #if 'http' in urlx or 'udp' in urlx or 'rtp' in urlx:
                         if 'http' in urlx:
                             urld = f"{urlx}"
@@ -249,4 +252,6 @@ results = set(results)  # 去重得到唯一的URL列表
 with open("itv.txt", 'w', encoding='utf-8') as file:
     for result in results:
         file.write(result + "\n")
-        #print(result)
+        print(result)
+        
+time.sleep(10)
