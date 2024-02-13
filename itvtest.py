@@ -171,7 +171,7 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title=\"央视频道\",{channel_name}\n')
                 file.write(f"{channel_url}\n")
                 channel_counters[channel_name] = 1
- channel_counters = {}
+    channel_counters = {}
     #file.write('河南频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
@@ -203,7 +203,7 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title=\"卫视频道\",{channel_name}\n')
                 file.write(f"{channel_url}\n")
                 channel_counters[channel_name] = 1
- channel_counters = {}
+    channel_counters = {}
     #file.write('香港频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
