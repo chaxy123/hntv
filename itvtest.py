@@ -20,10 +20,10 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
     lines = file.readlines()
     for line in lines:
         line = line.strip()
-        print(line)
         if line:
             channel_name, channel_url = line.split(',')
-            channels.append((channel_name, channel_url))
+            if '卫视' in channel_name or 'CCTV' in channel_name or '农民' in channel_name or '戏' in channel_name or '园' in channel_name:
+                channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
 def worker():
@@ -73,8 +73,10 @@ def worker():
 # 创建多个工作线程
 num_threads = 10
 for _ in range(num_threads):
-    t = threading.Thread(target=worker, daemon=True)  # 将工作线程设置为守护线程
+    t = threading.Thread(target=worker, daemon=True) 
+    #t = threading.Thread(target=worker, args=(event,len(channels)))  # 将工作线程设置为守护线程
     t.start()
+    #event.set()
 
 # 添加下载任务到队列
 for channel in channels:
