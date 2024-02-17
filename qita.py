@@ -155,7 +155,7 @@ with open("itvlist.txt", "w", encoding="utf-8") as output:
     
 # 合并文件内容
 file_contents = []
-file_paths = ["cctv.m3u", "weishi.m3u", hn.m3u","qita.m3u"]  # 替换为实际的文件路径列表
+file_paths = ["cctv.m3u", "weishi.m3u", "hn.m3u","qita.m3u"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
