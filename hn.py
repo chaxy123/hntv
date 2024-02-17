@@ -23,7 +23,7 @@ with open("hnitv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '卫视' in channel_name:
+            if '河南' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
