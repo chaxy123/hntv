@@ -1,4 +1,5 @@
 import time
+import os
 import concurrent.futures
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -162,10 +163,11 @@ for url in urls:
                         else:
                             urld = f"{url_x}{urlx}"
 
-                        if name and urlx:
+                        if name and urld:
                             # 删除特定文字
                             name = name.replace("cctv", "CCTV")
                             name = name.replace("中央", "CCTV")
+                            name = name.replace("央视", "CCTV")
                             name = name.replace("高清", "")
                             name = name.replace("超高", "")
                             name = name.replace("HD", "")
@@ -183,10 +185,12 @@ for url in urls:
                             name = name.replace("CCTV3综艺", "CCTV3")
                             name = name.replace("CCTV4国际", "CCTV4")
                             name = name.replace("CCTV4中文国际", "CCTV4")
+                            name = name.replace("CCTV4欧洲", "CCTV4")
                             name = name.replace("CCTV5体育", "CCTV5")
                             name = name.replace("CCTV6电影", "CCTV6")
                             name = name.replace("CCTV7军事", "CCTV7")
                             name = name.replace("CCTV7军农", "CCTV7")
+                            name = name.replace("CCTV7农业", "CCTV7")
                             name = name.replace("CCTV7国防军事", "CCTV7")
                             name = name.replace("CCTV8电视剧", "CCTV8")
                             name = name.replace("CCTV9记录", "CCTV9")
@@ -204,17 +208,17 @@ for url in urls:
                             name = name.replace("CCTV5+体育赛视", "CCTV5+")
                             name = name.replace("CCTV5+体育赛事", "CCTV5+")
                             name = name.replace("CCTV5+体育", "CCTV5+")
-                            results.append(f"{name},{urld}")
+                            if 'udp' not in urld or 'rtp' not in urld:
+                                results.append(f"{name},{urld}")
             except:
                 continue
         except:
             continue
 
-
+results.sort()
 results = set(results)  # 去重得到唯一的URL列表
+
 with open("itv.txt", 'w', encoding='utf-8') as file:
     for result in results:
         file.write(result + "\n")
         print(result)
-        
-time.sleep(10)
