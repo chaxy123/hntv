@@ -1,4 +1,3 @@
-
 import os
 import re
 import time
@@ -24,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if 'CCTV' in channel_name:
+            if '卫视' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
@@ -97,8 +96,9 @@ def channel_key(channel_name):
 
 # 对频道进行排序
 results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
-results.sort(key=lambda x: channel_key(x[0]))
+#results.sort(key=lambda x: channel_key(x[0]))
 now_today = datetime.date.today()
+# 将结果写入文件
 
 result_counter = 1  # 每个频道需要的个数
 
@@ -120,7 +120,7 @@ with open("hn.txt", 'w', encoding='utf-8') as file:
 
 with open("hn.m3u", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('#EXTM3U\n')
+    #file.write('河南频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '河南' in channel_name:
