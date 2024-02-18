@@ -23,7 +23,7 @@ with open("hnitv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '河南' in channel_name or '国际' in channel_name or '农村' in channel_name or '新闻' in channel_name or '民生' in channel_name or '法制' in channel_name or '电视剧' in channel_name or '都市' in channel_name or '梨园' in channel_name or '戏曲' in channel_name or '公共' in channel_name:
+            if '河南' in channel_name or '国际' in channel_name or '农村' in channel_name or '新闻' in channel_name or '民生' in channel_name or '法制' in channel_name or '电视剧' in channel_name or '都市' in channel_name or '梨园' in channel_name or '戏曲' in channel_name or '公共' in channel_name or '许昌' in channel_name or '郑州' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
@@ -107,7 +107,7 @@ with open("hn.txt", 'w', encoding='utf-8') as file:
     file.write('河南频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if '河南' in channel_name or '国际' in channel_name or '农村' in channel_name or '新闻' in channel_name or '民生' in channel_name or '法制' in channel_name or '电视剧' in channel_name or '都市' in channel_name or '梨园' in channel_name or '戏曲' in channel_name or '公共' in channel_name:
+        if '河南' in channel_name or '国际' in channel_name or '农村' in channel_name or '新闻' in channel_name or '民生' in channel_name or '法制' in channel_name or '电视剧' in channel_name or '都市' in channel_name or '梨园' in channel_name or '戏曲' in channel_name or '公共' in channel_name or '许昌' in channel_name or '郑州' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -123,7 +123,7 @@ with open("hn.m3u", 'w', encoding='utf-8') as file:
     #file.write('河南频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if '河南' in channel_name or '国际' in channel_name or '农村' in channel_name or '新闻' in channel_name or '民生' in channel_name or '法制' in channel_name or '电视剧' in channel_name or '都市' in channel_name or '梨园' in channel_name or '戏曲' in channel_name or '公共' in channel_name:
+        if '河南' in channel_name or '国际' in channel_name or '农村' in channel_name or '新闻' in channel_name or '民生' in channel_name or '法制' in channel_name or '电视剧' in channel_name or '都市' in channel_name or '梨园' in channel_name or '戏曲' in channel_name or '公共' in channel_name or '许昌' in channel_name or '郑州' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
