@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="公共" tvg-logo="https://epg.112114.xyz/logo/公共.png" group-title="河南频道",公共
+http://171.8.138.78:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="新闻" tvg-logo="https://epg.112114.xyz/logo/新闻.png" group-title="河南频道",新闻
 http://171.8.138.78:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="河南频道",梨园
@@ -27,4 +29,4 @@ http://171.8.138.78:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="移动戏曲" tvg-logo="https://epg.112114.xyz/logo/移动戏曲.png" group-title="河南频道",移动戏曲
 http://171.8.138.78:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="都市" tvg-logo="https://epg.112114.xyz/logo/都市.png" group-title="河南频道",都市
-http://171.8.138.78:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.52.43.144:8888/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
