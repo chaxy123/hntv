@@ -1,29 +1,25 @@
-#EXTINF:-1 tvg-id="公共" tvg-logo="https://epg.112114.xyz/logo/公共.png" group-title="河南频道",公共
-http://171.8.138.78:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="新闻" tvg-logo="https://epg.112114.xyz/logo/新闻.png" group-title="河南频道",新闻
-http://171.8.138.78:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="晴彩许昌" tvg-logo="https://epg.112114.xyz/logo/晴彩许昌.png" group-title="河南频道",晴彩许昌
 http://222.140.12.192:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="河南频道",梨园
-http://222.140.12.192:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.14.158.22:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="民生" tvg-logo="https://epg.112114.xyz/logo/民生.png" group-title="河南频道",民生
 http://171.8.138.78:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南公共" tvg-logo="https://epg.112114.xyz/logo/河南公共.png" group-title="河南频道",河南公共
-http://123.4.126.103:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.14.158.22:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="河南频道",河南卫视
 http://123.4.126.103:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" group-title="河南频道",河南国际
 http://222.140.12.192:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南新农村" tvg-logo="https://epg.112114.xyz/logo/河南新农村.png" group-title="河南频道",河南新农村
-http://123.4.126.103:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.14.158.177:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南新闻" tvg-logo="https://epg.112114.xyz/logo/河南新闻.png" group-title="河南频道",河南新闻
-http://221.14.158.22:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.4.126.103:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png" group-title="河南频道",河南民生
 http://123.4.126.103:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南法制" tvg-logo="https://epg.112114.xyz/logo/河南法制.png" group-title="河南频道",河南法制
 http://221.14.158.177:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png" group-title="河南频道",河南电视剧
-http://123.4.126.103:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.12.192:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png" group-title="河南频道",河南都市
 http://222.140.12.192:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="法制" tvg-logo="https://epg.112114.xyz/logo/法制.png" group-title="河南频道",法制
