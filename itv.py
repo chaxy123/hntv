@@ -211,6 +211,7 @@ for url in urls:
                             name = name.replace("CCTV5+体育赛视", "CCTV5+")
                             name = name.replace("CCTV5+体育赛事", "CCTV5+")
                             name = name.replace("CCTV5+体育", "CCTV5+")
+                            name = name.replace("CCTV教育", "CETV1")
                             if 'udp' not in urld or 'rtp' not in urld:
                                 results.append(f"{name},{urld}")
             except:
