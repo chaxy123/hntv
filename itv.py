@@ -195,6 +195,7 @@ for url in urls:
                             name = name.replace("CCTV8电视剧", "CCTV8")
                             name = name.replace("CCTV8记录", "CCTV9")
                             name = name.replace("CCTV9纪录", "CCTV9")
+                            name = name.replace("CCTV纪录", "CCTV9")
                             name = name.replace("CCTV10科教", "CCTV10")
                             name = name.replace("CCTV11戏曲", "CCTV11")
                             name = name.replace("CCTV12社会与法", "CCTV12")
