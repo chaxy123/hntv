@@ -203,6 +203,7 @@ for url in urls:
                             name = name.replace("CCTV新闻", "CCTV13")
                             name = name.replace("CCTV14少儿", "CCTV14")
                             name = name.replace("CCTV14少儿超", "CCTV14")
+                            name = name.replace("CCTV14超", "CCTV14")
                             name = name.replace("CCTV少儿", "CCTV14")
                             name = name.replace("CCTV15音乐", "CCTV15")
                             name = name.replace("CCTV16奥林匹克", "CCTV16")
