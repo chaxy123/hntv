@@ -193,7 +193,7 @@ for url in urls:
                             name = name.replace("CCTV7农业", "CCTV7")
                             name = name.replace("CCTV7国防军事", "CCTV7")
                             name = name.replace("CCTV8电视剧", "CCTV8")
-                            name = name.replace("CCTV9记录", "CCTV9")
+                            name = name.replace("CCTV8记录", "CCTV9")
                             name = name.replace("CCTV9纪录", "CCTV9")
                             name = name.replace("CCTV10科教", "CCTV10")
                             name = name.replace("CCTV11戏曲", "CCTV11")
