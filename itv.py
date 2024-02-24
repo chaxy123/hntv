@@ -196,6 +196,7 @@ for url in urls:
                             name = name.replace("CCTV8记录", "CCTV9")
                             name = name.replace("CCTV9纪录", "CCTV9")
                             name = name.replace("CCTV纪录", "CCTV9")
+                            name = name.replace("CCTV记录", "CCTV9")
                             name = name.replace("CCTV10科教", "CCTV10")
                             name = name.replace("CCTV11戏曲", "CCTV11")
                             name = name.replace("CCTV12社会与法", "CCTV12")
@@ -220,6 +221,7 @@ for url in urls:
                             name = name.replace("上海卫视", "东方卫视")
                             name = name.replace("内蒙卫视", "内蒙古卫视")
                             name = name.replace("天津卫视台", "天津卫视")
+                            name = name.replace("CCTV英语新闻", "CGTN")
                             if 'udp' not in urld or 'rtp' not in urld:
                                 results.append(f"{name},{urld}")
             except:
