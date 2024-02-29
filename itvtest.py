@@ -140,11 +140,25 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+                    channel_counters = {}
+    file.write('许昌频道,#genre#\n')
+    for result in results:
+        channel_name, channel_url, speed = result
+        if '许昌' in channel_name:
+            if channel_name in channel_counters:
+                if channel_counters[channel_name] >= result_counter:
+                    continue
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] += 1
+            else:
+                file.write(f"{channel_name},{channel_url}\n")
+                channel_counters[channel_name] = 1
     channel_counters = {}
     file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
+        if 'CCTV' not in channel_name and '卫视' not in channel_name and '许昌' not in channel_name and '测试' not in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -207,6 +221,22 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title=\"卫视频道\",{channel_name}\n')
                 file.write(f"{channel_url}\n")
                 channel_counters[channel_name] = 1
+        channel_counters = {}
+    #file.write('许昌频道,#genre#\n')
+    for result in results:
+        channel_name, channel_url, speed = result
+        if '许昌' in channel_name:
+            if channel_name in channel_counters:
+                if channel_counters[channel_name] >= result_counter:
+                    continue
+                else:
+                    file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title=\"许昌频道\",{channel_name}\n')
+                    file.write(f"{channel_url}\n")
+                    channel_counters[channel_name] += 1
+            else:
+                file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title=\"许昌频道\",{channel_name}\n')
+                file.write(f"{channel_url}\n")
+                channel_counters[channel_name] = 1
     channel_counters = {}
     #file.write('香港频道,#genre#\n')
     for result in results:
@@ -227,7 +257,7 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
     #file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '河南' not in channel_name and '凤凰' not in channel_name and '测试' not in channel_name:
+        if 'CCTV' not in channel_name and '卫视' not in channel_name and '河南' not in channel_name and '许昌' not in channel_name and '凤凰' not in channel_name and '测试' not in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
