@@ -1,6 +1,7 @@
 import os
 import re
 import time
+import datetime
 import threading
 from queue import Queue
 import requests
@@ -22,8 +23,8 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '卫视' in channel_name or 'CCTV' in channel_name or '农民' in channel_name or '戏' in channel_name or '园' in channel_name:
-                channels.append((channel_name, channel_url))
+            #if '卫视' in channel_name or 'CCTV' in channel_name or '农民' in channel_name or '戏曲' in channel_name or '梨园' in channel_name:
+            channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
 def worker():
@@ -32,7 +33,7 @@ def worker():
         channel_name, channel_url = task_queue.get()
         try:
             channel_url_t = channel_url.rstrip(channel_url.split('/')[-1])  # m3u8链接前缀
-            lines = requests.get(channel_url).text.strip().split('\n')  # 获取m3u8文件内容
+            lines = requests.get(channel_url,timeout=1).text.strip().split('\n')  # 获取m3u8文件内容
             ts_lists = [line.split('/')[-1] for line in lines if line.startswith('#') == False]  # 获取m3u8文件下视频流后缀
             ts_lists_0 = ts_lists[0].rstrip(ts_lists[0].split('.ts')[-1])  # m3u8链接前缀
             ts_url = channel_url_t + ts_lists[0]  # 拼接单个视频片段下载链接
@@ -40,7 +41,7 @@ def worker():
             # 多获取的视频数据进行5秒钟限制
             with eventlet.Timeout(5, False):
                 start_time = time.time()
-                content = requests.get(ts_url).content
+                content = requests.get(ts_url,timeout=1).content
                 end_time = time.time()
                 response_time = (end_time - start_time) * 1
 
@@ -74,9 +75,7 @@ def worker():
 num_threads = 10
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
-    #t = threading.Thread(target=worker, args=(event,len(channels)))  # 将工作线程设置为守护线程
     t.start()
-    #event.set()
 
 # 添加下载任务到队列
 for channel in channels:
@@ -96,7 +95,7 @@ def channel_key(channel_name):
 # 对频道进行排序
 results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 results.sort(key=lambda x: channel_key(x[0]))
-
+now_today = datetime.date.today()
 # 将结果写入文件
 with open("itv_results.txt", 'w', encoding='utf-8') as file:
     for result in results:
@@ -107,6 +106,7 @@ with open("itv_speed.txt", 'w', encoding='utf-8') as file:
     for result in results:
         channel_name, channel_url, speed = result
         file.write(f"{channel_name},{channel_url}\n")
+
 
 
 result_counter = 1  # 每个频道需要的个数
@@ -154,6 +154,8 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+                
+    file.write(f"{now_today}更新,#genre#\n")
 
 
 with open("itvlist.m3u", 'w', encoding='utf-8') as file:
@@ -237,3 +239,5 @@ with open("itvlist.m3u", 'w', encoding='utf-8') as file:
                 file.write(f'#EXTINF:-1 tvg-id="{channel_name}" tvg-logo="https://epg.112114.xyz/logo/{channel_name}.png" group-title=\"其他频道\",{channel_name}\n')
                 file.write(f"{channel_url}\n")
                 channel_counters[channel_name] = 1
+
+    file.write(f"#EXTINF:-1 group-title=\"{now_today}更新\"\n")
