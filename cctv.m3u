@@ -1,52 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV1
-http://221.14.152.25:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.4.126.80:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV2
-http://221.14.158.192:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.182.208.248:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视频道",CCTV3
-http://221.14.152.25:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.4.126.80:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视频道",CCTV4
-http://111.225.114.162:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.153:808/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视频道",CCTV5
-http://221.14.152.25:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.171.86.183:9901/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://221.14.152.25:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.153:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视频道",CCTV6
-http://221.14.152.25:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.160.233.118:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视频道",CCTV7
-http://222.89.107.42:9876/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.160.233.118:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视频道",CCTV8
-http://221.14.152.25:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.171.86.183:9901/tsfile/live/16007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视频道",CCTV9
-http://61.141.202.118:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.171.86.183:9901/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视频道",CCTV10
-http://221.14.152.25:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.183.24.27:6666/tsfile/live/0010_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视频道",CCTV11
-http://121.19.134.153:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.160.233.118:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视频道",CCTV12
-http://221.14.152.25:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.153:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视频道",CCTV13
-http://111.225.114.162:808/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.4.126.80:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视频道",CCTV14
-http://123.4.126.80:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.153:808/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://123.160.233.118:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://117.27.190.42:9901/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.153:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视频道",CCTV17
-http://111.225.114.162:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV俄语" tvg-logo="https://epg.112114.xyz/logo/CCTV俄语.png" group-title="央视频道",CCTV俄语
-http://180.167.104.105:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.153:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 http://121.19.134.153:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV法语" tvg-logo="https://epg.112114.xyz/logo/CCTV法语.png" group-title="央视频道",CCTV法语
-http://180.167.104.105:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://121.19.134.153:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV西班牙" tvg-logo="https://epg.112114.xyz/logo/CCTV西班牙.png" group-title="央视频道",CCTV西班牙
-http://180.167.104.105:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV阿拉伯语" tvg-logo="https://epg.112114.xyz/logo/CCTV阿拉伯语.png" group-title="央视频道",CCTV阿拉伯语
-http://180.167.104.105:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://121.19.134.153:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
