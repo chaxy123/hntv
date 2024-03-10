@@ -1,11 +1,15 @@
+#EXTINF:-1 tvg-id="BTV冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/BTV冬奥纪实.png" group-title="其他频道",BTV冬奥纪实
+http://111.225.114.162:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="BTV新闻" tvg-logo="https://epg.112114.xyz/logo/BTV新闻.png" group-title="其他频道",BTV新闻
+http://115.171.86.183:9901/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="BTV财经" tvg-logo="https://epg.112114.xyz/logo/BTV财经.png" group-title="其他频道",BTV财经
 http://115.171.86.183:9901/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他频道",CETV1
 http://111.225.114.162:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他频道",CETV2
-http://111.225.113.60:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他频道",CETV4
-http://111.225.113.60:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="其他频道",CGTN
 http://180.167.104.105:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CNB亚太财经" tvg-logo="https://epg.112114.xyz/logo/CNB亚太财经.png" group-title="其他频道",CNB亚太财经
@@ -22,24 +26,28 @@ http://117.27.190.42:9901/tsfile/live/23298_1.m3u8?key=txiptv&playlive=1&authid=
 http://180.167.104.105:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="上海娱乐" tvg-logo="https://epg.112114.xyz/logo/上海娱乐.png" group-title="其他频道",上海娱乐
 http://180.164.89.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="上海电视剧" tvg-logo="https://epg.112114.xyz/logo/上海电视剧.png" group-title="其他频道",上海电视剧
+http://61.170.164.195:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="其他频道",上海纪实
-http://180.167.104.105:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://61.170.164.195:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="上海艺术人生" tvg-logo="https://epg.112114.xyz/logo/上海艺术人生.png" group-title="其他频道",上海艺术人生
+http://61.170.164.195:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png" group-title="其他频道",东方购物
 http://180.167.104.105:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他频道",中国交通
-http://111.225.113.60:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="中国教育" tvg-logo="https://epg.112114.xyz/logo/中国教育.png" group-title="其他频道",中国教育
-http://222.140.14.241:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="中国气象" tvg-logo="https://epg.112114.xyz/logo/中国气象.png" group-title="其他频道",中国气象
 http://222.71.189.186:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他频道",五星体育
 http://180.164.89.43:9901/tsfile/live/0107_11.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="保定公共" tvg-logo="https://epg.112114.xyz/logo/保定公共.png" group-title="其他频道",保定公共
-http://111.225.113.60:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="保定新闻综合" tvg-logo="https://epg.112114.xyz/logo/保定新闻综合.png" group-title="其他频道",保定新闻综合
-http://111.225.113.60:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="保定生活健康" tvg-logo="https://epg.112114.xyz/logo/保定生活健康.png" group-title="其他频道",保定生活健康
-http://111.225.113.60:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="公共" tvg-logo="https://epg.112114.xyz/logo/公共.png" group-title="其他频道",公共
 http://123.160.233.118:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="其他频道",凤凰中文
@@ -47,95 +55,73 @@ http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="其他频道",凤凰资讯
 http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="北京卡通" tvg-logo="https://epg.112114.xyz/logo/北京卡通.png" group-title="其他频道",北京卡通
-http://222.140.14.241:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="其他频道",北京纪实
-http://111.225.113.60:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="南平综合" tvg-logo="https://epg.112114.xyz/logo/南平综合.png" group-title="其他频道",南平综合
 http://117.27.190.42:9901/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="其他频道",卡酷动画
-http://123.182.208.248:8088/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.52.43.144:8888/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="卡酷卡通" tvg-logo="https://epg.112114.xyz/logo/卡酷卡通.png" group-title="其他频道",卡酷卡通
 http://111.161.149.171:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="厦门1" tvg-logo="https://epg.112114.xyz/logo/厦门1.png" group-title="其他频道",厦门1
-http://117.27.190.42:9901/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="厦门2" tvg-logo="https://epg.112114.xyz/logo/厦门2.png" group-title="其他频道",厦门2
-http://117.27.190.42:9901/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="唐山新闻综合" tvg-logo="https://epg.112114.xyz/logo/唐山新闻综合.png" group-title="其他频道",唐山新闻综合
-http://111.225.113.60:808/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他频道",嘉佳卡通
-http://123.163.21.65:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="国学" tvg-logo="https://epg.112114.xyz/logo/国学.png" group-title="其他频道",国学
-http://222.140.14.241:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="天津体育台" tvg-logo="https://epg.112114.xyz/logo/天津体育台.png" group-title="其他频道",天津体育台
-http://111.161.149.171:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="天津新闻台" tvg-logo="https://epg.112114.xyz/logo/天津新闻台.png" group-title="其他频道",天津新闻台
-http://111.161.149.171:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="天津科教台" tvg-logo="https://epg.112114.xyz/logo/天津科教台.png" group-title="其他频道",天津科教台
-http://111.161.149.171:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="天津都市台" tvg-logo="https://epg.112114.xyz/logo/天津都市台.png" group-title="其他频道",天津都市台
-http://111.161.149.171:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="宁德综合" tvg-logo="https://epg.112114.xyz/logo/宁德综合.png" group-title="其他频道",宁德综合
-http://117.27.190.42:9901/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天津影视台" tvg-logo="https://epg.112114.xyz/logo/天津影视台.png" group-title="其他频道",天津影视台
+http://111.161.149.171:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天津文艺台" tvg-logo="https://epg.112114.xyz/logo/天津文艺台.png" group-title="其他频道",天津文艺台
+http://111.161.149.171:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="其他频道",山东教育
 http://111.225.114.162:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="其他频道",广东体育
-http://219.137.29.178:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="廊坊新闻" tvg-logo="https://epg.112114.xyz/logo/廊坊新闻.png" group-title="其他频道",廊坊新闻
-http://111.225.113.60:808/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="开封公共" tvg-logo="https://epg.112114.xyz/logo/开封公共.png" group-title="其他频道",开封公共
-http://222.89.107.42:9876/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="开封新闻" tvg-logo="https://epg.112114.xyz/logo/开封新闻.png" group-title="其他频道",开封新闻
-http://222.89.107.42:9876/tsfile/live/0139_8.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="张家口1" tvg-logo="https://epg.112114.xyz/logo/张家口1.png" group-title="其他频道",张家口1
-http://111.225.113.60:808/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他频道",快乐垂钓
-http://111.225.113.60:808/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="教育电视台1" tvg-logo="https://epg.112114.xyz/logo/教育电视台1.png" group-title="其他频道",教育电视台1
-http://115.171.86.183:9901/tsfile/live/16058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="平潭综合" tvg-logo="https://epg.112114.xyz/logo/平潭综合.png" group-title="其他频道",平潭综合
+http://117.27.190.42:9901/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="其他频道",广东珠江
+http://61.141.202.118:9901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他频道",文物宝库
-http://222.140.14.241:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="新闻" tvg-logo="https://epg.112114.xyz/logo/新闻.png" group-title="其他频道",新闻
 http://123.160.233.118:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="新闻综合" tvg-logo="https://epg.112114.xyz/logo/新闻综合.png" group-title="其他频道",新闻综合
-http://180.167.104.105:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+http://180.164.89.43:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="早教" tvg-logo="https://epg.112114.xyz/logo/早教.png" group-title="其他频道",早教
-http://222.140.14.241:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="晴彩许昌" tvg-logo="https://epg.112114.xyz/logo/晴彩许昌.png" group-title="其他频道",晴彩许昌
-http://222.140.14.241:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="曲周新闻" tvg-logo="https://epg.112114.xyz/logo/曲周新闻.png" group-title="其他频道",曲周新闻
 http://123.182.208.248:8088/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="枫叶" tvg-logo="https://epg.112114.xyz/logo/枫叶.png" group-title="其他频道",枫叶
 http://180.167.104.105:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他频道",梨园
-http://123.160.233.118:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="欢腾购物" tvg-logo="https://epg.112114.xyz/logo/欢腾购物.png" group-title="其他频道",欢腾购物
-http://222.140.14.241:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他频道",武术世界
-http://222.140.14.241:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="民生" tvg-logo="https://epg.112114.xyz/logo/民生.png" group-title="其他频道",民生
-http://123.52.43.144:8888/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.160.233.118:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北公共" tvg-logo="https://epg.112114.xyz/logo/河北公共.png" group-title="其他频道",河北公共
-http://111.225.113.60:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北农民" tvg-logo="https://epg.112114.xyz/logo/河北农民.png" group-title="其他频道",河北农民
-http://111.225.113.60:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.182.208.248:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-logo="https://epg.112114.xyz/logo/河北少儿科教.png" group-title="其他频道",河北少儿科教
-http://111.225.113.60:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北影视" tvg-logo="https://epg.112114.xyz/logo/河北影视.png" group-title="其他频道",河北影视
 http://123.182.208.248:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北影视剧" tvg-logo="https://epg.112114.xyz/logo/河北影视剧.png" group-title="其他频道",河北影视剧
-http://111.225.114.162:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北杂技" tvg-logo="https://epg.112114.xyz/logo/河北杂技.png" group-title="其他频道",河北杂技
-http://111.225.114.162:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北经济" tvg-logo="https://epg.112114.xyz/logo/河北经济.png" group-title="其他频道",河北经济
 http://123.182.208.248:8088/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北经济生活" tvg-logo="https://epg.112114.xyz/logo/河北经济生活.png" group-title="其他频道",河北经济生活
-http://111.225.113.60:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北都市" tvg-logo="https://epg.112114.xyz/logo/河北都市.png" group-title="其他频道",河北都市
 http://123.182.208.248:8088/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="泉州综合" tvg-logo="https://epg.112114.xyz/logo/泉州综合.png" group-title="其他频道",泉州综合
 http://117.27.190.42:9901/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="法制" tvg-logo="https://epg.112114.xyz/logo/法制.png" group-title="其他频道",法制
-http://123.52.43.144:8888/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.160.233.118:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="法制天地" tvg-logo="https://epg.112114.xyz/logo/法制天地.png" group-title="其他频道",法制天地
 http://180.164.89.43:9901/tsfile/live/0107_12.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="法治天下" tvg-logo="https://epg.112114.xyz/logo/法治天下.png" group-title="其他频道",法治天下
@@ -144,8 +130,12 @@ http://180.167.104.105:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid
 http://180.167.104.105:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="其他频道",淘电影
 http://115.171.86.183:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="其他频道",深圳电视剧
+http://61.141.202.118:9901/tsfile/live/0126_3.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="其他频道",深圳都市
+http://61.141.202.118:9901/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他频道",游戏风云
-http://180.167.104.105:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://61.170.164.195:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="漳州综合" tvg-logo="https://epg.112114.xyz/logo/漳州综合.png" group-title="其他频道",漳州综合
 http://117.27.190.42:9901/tsfile/live/23303_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他频道",炫动卡通
@@ -183,37 +173,35 @@ http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="禹州综合" tvg-logo="https://epg.112114.xyz/logo/禹州综合.png" group-title="其他频道",禹州综合
 http://123.13.244.224:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="秦皇岛1" tvg-logo="https://epg.112114.xyz/logo/秦皇岛1.png" group-title="其他频道",秦皇岛1
-http://111.225.113.60:808/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="移动戏曲" tvg-logo="https://epg.112114.xyz/logo/移动戏曲.png" group-title="其他频道",移动戏曲
 http://123.160.233.118:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="其他频道",第一剧场
 http://123.182.208.248:8088/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="其他频道",第一财经
-http://180.164.89.43:9901/tsfile/live/0107_10.m3u8?key=txiptv&playlive=1&authid=0
+http://61.170.164.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="精彩中原" tvg-logo="https://epg.112114.xyz/logo/精彩中原.png" group-title="其他频道",精彩中原
-http://222.140.14.241:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="其他频道",纪实人文
 http://111.225.114.162:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="美食汇" tvg-logo="https://epg.112114.xyz/logo/美食汇.png" group-title="其他频道",美食汇
-http://222.89.107.42:9876/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="其他频道",老故事
 http://123.182.208.248:8088/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="莆田综合" tvg-logo="https://epg.112114.xyz/logo/莆田综合.png" group-title="其他频道",莆田综合
 http://117.27.190.42:9901/tsfile/live/23302_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="衡水综合" tvg-logo="https://epg.112114.xyz/logo/衡水综合.png" group-title="其他频道",衡水综合
-http://111.225.113.60:808/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="许昌公共" tvg-logo="https://epg.112114.xyz/logo/许昌公共.png" group-title="其他频道",许昌公共
-http://222.140.14.241:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="许昌农林科教" tvg-logo="https://epg.112114.xyz/logo/许昌农林科教.png" group-title="其他频道",许昌农林科教
-http://222.140.14.241:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" group-title="其他频道",许昌综合
-http://222.140.14.241:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.8.38:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="邯郸公共" tvg-logo="https://epg.112114.xyz/logo/邯郸公共.png" group-title="其他频道",邯郸公共
 http://123.182.208.248:8088/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="邯郸新闻" tvg-logo="https://epg.112114.xyz/logo/邯郸新闻.png" group-title="其他频道",邯郸新闻
 http://123.182.208.248:8088/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="邯郸新闻综合" tvg-logo="https://epg.112114.xyz/logo/邯郸新闻综合.png" group-title="其他频道",邯郸新闻综合
-http://111.225.113.60:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="邯郸民生都市" tvg-logo="https://epg.112114.xyz/logo/邯郸民生都市.png" group-title="其他频道",邯郸民生都市
 http://123.182.208.248:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="都市" tvg-logo="https://epg.112114.xyz/logo/都市.png" group-title="其他频道",都市
@@ -221,13 +209,13 @@ http://123.160.233.118:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="金色" tvg-logo="https://epg.112114.xyz/logo/金色.png" group-title="其他频道",金色
 http://180.167.104.105:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他频道",金鹰卡通
-http://123.182.208.248:8088/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://123.52.43.144:8888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他频道",金鹰纪实
-http://111.225.113.60:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.114.162:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="靓妆" tvg-logo="https://epg.112114.xyz/logo/靓妆.png" group-title="其他频道",靓妆
 http://123.182.208.248:8088/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="高碑店1" tvg-logo="https://epg.112114.xyz/logo/高碑店1.png" group-title="其他频道",高碑店1
-http://111.225.113.60:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.69:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="龙岩综合" tvg-logo="https://epg.112114.xyz/logo/龙岩综合.png" group-title="其他频道",龙岩综合
 http://117.27.190.42:9901/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="2024-03-10更新"
