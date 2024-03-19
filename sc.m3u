@@ -28,7 +28,7 @@ http://wouu.net:9977/rtp/239.93.0.102:5140
 http://wouu.net:9977/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="914" tvg-name="CCTV13" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/13.png" group-title="央视",CCTV-13
 http://wouu.net:9977/rtp/239.93.0.99:5140
-#EXTINF:-1 tvg-id="915" tvg-name="CCTV14" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/14.png" group-title="央视",CCTV-少儿
+#EXTINF:-1 tvg-id="915" tvg-name="CCTV14" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/14.png" group-title="央视",CCTV-14
 http://wouu.net:9977/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="916" tvg-name="CCTV15" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/15.png" group-title="央视",CCTV-15
 http://wouu.net:9977/rtp/239.93.0.103:5140
@@ -116,6 +116,8 @@ http://wouu.net:9977/rtp/239.93.1.196:5140
 http://wouu.net:9977/rtp/239.93.0.100:5140
 #EXTINF:-1 tvg-id="1056" tvg-name="四川卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/scws.png" group-title="卫视",四川卫视
 http://wouu.net:9977/rtp/239.93.0.169:5140
+#EXTINF:-1 tvg-id="1066" tvg-name="康巴卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/sctv/kbws.png" group-title="卫视",康巴卫视
+http://wouu.net:9977/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="1057" tvg-name="SCTV2" tvg-logo="https://cdn.320888.xyz/tv-logo/sctv/2.png" group-title="四川",SCTV-2
 http://wouu.net:9977/rtp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="1058" tvg-name="SCTV3" tvg-logo="https://cdn.320888.xyz/tv-logo/sctv/3.png" group-title="四川",SCTV-3
@@ -134,8 +136,6 @@ http://wouu.net:9977/rtp/239.93.42.44:5140
 http://wouu.net:9977/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="1065" tvg-name="峨眉电影" tvg-logo="https://cdn.320888.xyz/tv-logo/sctv/emeidy.png" group-title="四川",峨眉电影
 http://wouu.net:9977/rtp/239.93.0.252:5140
-#EXTINF:-1 tvg-id="1066" tvg-name="康巴卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/sctv/kbws.png" group-title="卫视",康巴卫视
-http://wouu.net:9977/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="1067" tvg-name="熊猫新闻" tvg-logo="https://cdn.320888.xyz/tv-logo/panda/1.png" group-title="四川",熊猫新闻
 http://wouu.net:9977/rtp/239.93.1.112:5140
 #EXTINF:-1 tvg-id="1068" tvg-name="熊猫体娱" tvg-logo="https://cdn.320888.xyz/tv-logo/panda/2.png" group-title="四川",熊猫体娱
@@ -152,33 +152,33 @@ http://wouu.net:9977/rtp/239.93.0.126:5140
 http://wouu.net:9977/rtp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="1074" tvg-name="大爱四川" tvg-logo="https://cdn.320888.xyz/tv-logo/new/dasc.jpeg" group-title="四川",大爱四川
 http://wouu.net:9977/rtp/239.93.1.110:5140
-#EXTINF:-1 tvg-id="1050" tvg-name="北京纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/btvjs.png" group-title="北京",北京纪实
+#EXTINF:-1 tvg-id="1050" tvg-name="北京纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/btvjs.png" group-title="其他",北京纪实
 http://wouu.net:9977/rtp/239.93.0.152:5140
-#EXTINF:-1 tvg-id="1076" tvg-name="上海纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/shjs.png" group-title="上海",上海纪实
+#EXTINF:-1 tvg-id="1076" tvg-name="上海纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/shjs.png" group-title="其他",上海纪实
 http://wouu.net:9977/rtp/239.93.1.137:5140
-#EXTINF:-1 tvg-id="1077" tvg-name="金鹰纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/jyjs.png" group-title="湖南",金鹰纪实
+#EXTINF:-1 tvg-id="1077" tvg-name="金鹰纪实" tvg-logo="https://cdn.320888.xyz/tv-logo/jyjs.png" group-title="其他",金鹰纪实
 http://wouu.net:9977/rtp/239.93.0.130:5140
-#EXTINF:-1 tvg-id="1151" tvg-name="中国交通频道" tvg-logo="https://cdn.320888.xyz/tv-logo/zgjt.png" group-title="上海",中国交通-四川
+#EXTINF:-1 tvg-id="1151" tvg-name="中国交通频道" tvg-logo="https://cdn.320888.xyz/tv-logo/zgjt.png" group-title="其他",中国交通-四川
 http://wouu.net:9977/rtp/239.93.0.142:5140
-#EXTINF:-1 tvg-id="1079" tvg-name="中国教育1台" tvg-logo="https://cdn.320888.xyz/tv-logo/cetv-1.png" group-title="卫视",中国教育1台
+#EXTINF:-1 tvg-id="1079" tvg-name="中国教育1台" tvg-logo="https://cdn.320888.xyz/tv-logo/cetv-1.png" group-title="其他",中国教育1台
 http://wouu.net:9977/rtp/239.93.1.111:5140
-#EXTINF:-1 tvg-id="1080" tvg-name="中国教育2台" tvg-logo="https://cdn.320888.xyz/tv-logo/new/cetv2.png" group-title="地方",中国教育2台
+#EXTINF:-1 tvg-id="1080" tvg-name="中国教育2台" tvg-logo="https://cdn.320888.xyz/tv-logo/new/cetv2.png" group-title="其他",中国教育2台
 http://wouu.net:9977/rtp/239.93.0.113:5140
-#EXTINF:-1 tvg-id="1081" tvg-name="中国教育4台" tvg-logo="https://cdn.320888.xyz/tv-logo/cetv-4.png" group-title="地方",中国教育4台
+#EXTINF:-1 tvg-id="1081" tvg-name="中国教育4台" tvg-logo="https://cdn.320888.xyz/tv-logo/cetv-4.png" group-title="其他",中国教育4台
 http://wouu.net:9977/rtp/239.93.0.50:5140
-#EXTINF:-1 tvg-id="1082" tvg-name="爱上4K" tvg-logo="https://cdn.320888.xyz/tv-logo/as4k.png" group-title="四川",爱上4K
+#EXTINF:-1 tvg-id="1082" tvg-name="爱上4K" tvg-logo="https://cdn.320888.xyz/tv-logo/as4k.png" group-title="4K",爱上4K
 http://wouu.net:9977/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="1139" tvg-name="4K超高清电影" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4kcgqdy.png" group-title="四川",4K超高清电影
+#EXTINF:-1 tvg-id="1139" tvg-name="4K超高清电影" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4kcgqdy.png" group-title="4K",4K超高清电影
 http://wouu.net:9977/rtp/239.93.1.156:5140
-#EXTINF:-1 tvg-id="1140" tvg-name="4K乐享超清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4klx.png" group-title="四川",4K乐享超清
+#EXTINF:-1 tvg-id="1140" tvg-name="4K乐享超清" tvg-logo="https://cdn.320888.xyz/tv-logo/new/4klx.png" group-title="4K",4K乐享超清
 http://wouu.net:9977/rtp/239.93.0.43:5140
-#EXTINF:-1 tvg-id="1141" tvg-name="亲子趣学4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/myqz.jpeg" group-title="四川",亲子趣学4K
+#EXTINF:-1 tvg-id="1141" tvg-name="亲子趣学4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/myqz.jpeg" group-title="4K",亲子趣学4K
 http://wouu.net:9977/rtp/239.93.1.191:5140
-#EXTINF:-1 tvg-id="1142" tvg-name="津津悦读4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/jjyd.png" group-title="四川",津津悦读4K
+#EXTINF:-1 tvg-id="1142" tvg-name="津津悦读4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/jjyd.png" group-title="4K",津津悦读4K
 http://wouu.net:9977/rtp/239.93.1.197:5140
-#EXTINF:-1 tvg-id="1143" tvg-name="中录动漫4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/zldm.jpg" group-title="四川",中录动漫4K
+#EXTINF:-1 tvg-id="1143" tvg-name="中录动漫4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/zldm.jpg" group-title="4K",中录动漫4K
 http://wouu.net:9977/rtp/239.93.1.188:5140
-#EXTINF:-1 tvg-id="1144" tvg-name="绚影4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xy4k.png" group-title="四川",绚影4K
+#EXTINF:-1 tvg-id="1144" tvg-name="绚影4K" tvg-logo="https://cdn.320888.xyz/tv-logo/new/xy4k.png" group-title="4K",绚影4K
 http://wouu.net:9977/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="1083" tvg-name="CGTN" tvg-logo="https://cdn.320888.xyz/tv-logo/cctv/cgtn.png" group-title="央视",CGTN
 http://wouu.net:9977/rtp/239.93.0.62:5140
@@ -202,22 +202,14 @@ http://wouu.net:9977/rtp/239.93.1.231:5140
 http://wouu.net:9977/rtp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="1093" tvg-name="i成都" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/icd.png" group-title="四川",i成都
 http://wouu.net:9977/rtp/239.93.1.104:1234
-#EXTINF:-1 tvg-id="1094" tvg-name="每日购物" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/8.png" group-title="四川",CDTV-8每日购物
-http://wouu.net:9977/rtp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="1095" tvg-name="成都体育" tvg-logo="https://cdn.320888.xyz/tv-logo/new/dypd.jpeg" group-title="四川",成都体育
 http://wouu.net:9977/rtp/239.93.0.224:1281
 #EXTINF:-1 tvg-id="1096" tvg-name="资讯新干线" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/zxxgx.png" group-title="四川",资讯新干线
 http://wouu.net:9977/rtp/239.93.0.236:1283
 #EXTINF:-1 tvg-id="1097" tvg-name="蓉城先锋" tvg-logo="https://cdn.320888.xyz/tv-logo/cdtv/rcxf.png" group-title="四川",蓉城先锋
 http://wouu.net:9977/rtp/239.93.0.91:2101
-#EXTINF:-1 tvg-id="1152" tvg-name="家有购物" tvg-logo="https://cdn.320888.xyz/tv-logo/jygw.png" group-title="地方",家有购物
-http://wouu.net:9977/rtp/239.93.1.232:5140
-#EXTINF:-1 tvg-id="1099" tvg-name="快乐购物" tvg-logo="https://cdn.320888.xyz/tv-logo/hlg.png" group-title="地方",快乐购物
-http://wouu.net:9977/rtp/239.93.1.233:5140
 #EXTINF:-1 tvg-id="1100" tvg-name="环球购物" tvg-logo="https://cdn.320888.xyz/tv-logo/hqgw.png" group-title="地方",环球购物
-http://wouu.net:9977/rtp/239.93.1.143:5140
-#EXTINF:-1 tvg-id="1101" tvg-name="优购物" tvg-logo="https://cdn.320888.xyz/tv-logo/ygw.png" group-title="地方",优购物
-http://wouu.net:9977/rtp/239.93.1.246:5140
+# http://wouu.net:9977/rtp/239.93.1.143:5140
 #EXTINF:-1 tvg-id="1102" tvg-name="时尚购物" tvg-logo="https://cdn.320888.xyz/tv-logo/ssgw.png" group-title="地方",时尚购物
 http://wouu.net:9977/rtp/239.93.1.247:5140
 #EXTINF:-1 tvg-id="1103" tvg-name="好享购物" tvg-logo="https://cdn.320888.xyz/tv-logo/hxgw.png" group-title="地方",好享购物
@@ -274,13 +266,13 @@ http://wouu.net:9977/rtp/239.93.0.117:129
 http://wouu.net:9977/rtp/239.93.1.171:5140
 #EXTINF:-1 tvg-id="1129" tvg-name="金熊猫卡通" tvg-logo="https://cdn.320888.xyz/tv-logo/panda/8.png" group-title="四川",金熊猫卡通
 http://wouu.net:9977/rtp/239.93.1.172:5140
-#EXTINF:-1 tvg-id="1130" tvg-name="第一财经" tvg-logo="https://cdn.320888.xyz/tv-logo/dycj.png" group-title="上海",第一财经
+#EXTINF:-1 tvg-id="1130" tvg-name="第一财经" tvg-logo="https://cdn.320888.xyz/tv-logo/dycj.png" group-title="其他",第一财经
 http://wouu.net:9977/rtp/239.93.0.141:5140
 #EXTINF:-1 tvg-id="1131" tvg-name="电竞世界HD" tvg-logo="https://cdn.320888.xyz/tv-logo/djsj.png" group-title="地方",电竞世界HD
 http://wouu.net:9977/rtp/239.93.1.187:5140
-#EXTINF:-1 tvg-id="1132" tvg-name="MAX极速汽车" tvg-logo="https://cdn.320888.xyz/tv-logo/maxcar.png" group-title="上海",max极速汽车
+#EXTINF:-1 tvg-id="1132" tvg-name="MAX极速汽车" tvg-logo="https://cdn.320888.xyz/tv-logo/maxcar.png" group-title="其他",max极速汽车
 http://wouu.net:9977/rtp/239.93.42.20:5140
-#EXTINF:-1 tvg-id="1133" tvg-name="东方财经" tvg-logo="https://cdn.320888.xyz/tv-logo/dfcj.png" group-title="上海",东方财经
+#EXTINF:-1 tvg-id="1133" tvg-name="东方财经" tvg-logo="https://cdn.320888.xyz/tv-logo/dfcj.png" group-title="其他",东方财经
 http://wouu.net:9977/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="1134" tvg-name="BesTV" tvg-logo="https://cdn.320888.xyz/tv-logo/bestv.png" group-title="四川",BesTV
 http://wouu.net:9977/rtp/239.93.1.180:5140
