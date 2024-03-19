@@ -77,9 +77,9 @@ http://wouu.net:9977/rtp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="1035" tvg-name="河北卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/hebei.png" group-title="卫视",河北卫视
 http://wouu.net:9977/rtp/239.93.0.132:5140
 #EXTINF:-1 tvg-id="1036" tvg-name="安徽卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/ahws.png" group-title="卫视",安徽卫视
-http://wouu.net:9977/rtp/239.93.0.113:5140
+http://wouu.net:9977/rtp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="1037" tvg-name="辽宁卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/lnws.png" group-title="卫视",辽宁卫视
-http://wouu.net:9977/rtp/239.93.0.114:5140
+http://wouu.net:9977/rtp/239.93.1.108:5140
 #EXTINF:-1 tvg-id="1038" tvg-name="广西卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/gxws.png" group-title="卫视",广西卫视
 http://wouu.net:9977/rtp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="1039" tvg-name="吉林卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/weishi/jlws.png" group-title="卫视",吉林卫视
@@ -292,3 +292,89 @@ http://wouu.net:9977/rtp/239.93.1.39:5140
 http://wouu.net:9977/rtp/239.93.1.7:2194
 #EXTINF:-1 tvg-id="1148" tvg-name="星空卫视" tvg-logo="https://cdn.320888.xyz/tv-logo/gt/xkws.png" group-title="港澳台",星空卫视
 http://wouu.net:9977/rtp/239.93.0.156:2193
+#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
+http://wouu.net:9977/rtp/239.93.0.138:5140
+#EXTINF:-1,tvg-id="星光院线" tvg-name="星光院线" tvg-logo="https://live.fanmingming.com/tv/星光院线.png" group-title="其他",星光院线
+http://wouu.net:9977/rtp/239.93.0.139:5140
+#EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/全球大片.png" group-title="其他",全球大片
+http://wouu.net:9977/rtp/239.93.0.105:5140
+#EXTINF:-1,tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/热门剧场.png" group-title="其他",热门剧场
+http://wouu.net:9977/rtp/239.93.0.140:5140
+#EXTINF:-1,tvg-id="港剧风云" tvg-name="港剧风云" tvg-logo="https://live.fanmingming.com/tv/港剧风云.png" group-title="其他",港剧风云
+http://wouu.net:9977/rtp/239.93.0.143:5140
+#EXTINF:-1,tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/谍战剧场.png" group-title="其他",谍战剧场
+http://wouu.net:9977/rtp/239.93.0.95:5140
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="其他",优漫卡通
+http://wouu.net:9977/rtp/239.93.0.251:5140
+#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/青春动漫.png" group-title="其他",青春动漫
+http://wouu.net:9977/rtp/239.93.0.146:5140
+#EXTINF:-1,tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/戏曲精选.png" group-title="其他",戏曲精选
+http://wouu.net:9977/rtp/239.93.0.144:5140
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚
+http://wouu.net:9977/rtp/239.93.0.106:5140
+#EXTINF:-1,tvg-id="汽车频道" tvg-name="汽车频道" tvg-logo="https://live.fanmingming.com/tv/汽车.png" group-title="其他",汽车频道
+http://wouu.net:9977/rtp/239.93.0.117:1292
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他",纪实人文
+http://wouu.net:9977/rtp/239.93.1.154:5140
+#EXTINF:-1,tvg-id="导视" tvg-name="导视" tvg-logo="https://live.fanmingming.com/tv/导视.png" group-title="其他",导视
+http://wouu.net:9977/rtp/239.93.0.129:5140
+#EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="其他",爱怀旧高清
+http://wouu.net:9977/rtp/239.93.42.21:5140
+#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="其他",爱喜剧高清
+http://wouu.net:9977/rtp/239.93.42.9:5140
+#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="其他",爱奇谈高清
+http://wouu.net:9977/rtp/239.93.42.22:5140
+#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="其他",爱科幻高清
+http://wouu.net:9977/rtp/239.93.42.10:5140
+#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="其他",爱院线高清
+http://wouu.net:9977/rtp/239.93.42.11:5140
+#EXTINF:-1,tvg-id="幸福剧场" tvg-name="幸福剧场" tvg-logo="https://live.fanmingming.com/tv/幸福剧场.png" group-title="其他",幸福剧场
+http://wouu.net:9977/rtp/239.93.42.30:5140
+#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="其他",爱谍战高清
+http://wouu.net:9977/rtp/239.93.42.14:5140
+#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://live.fanmingming.com/tv/爱经典.png" group-title="其他",爱经典高清
+http://wouu.net:9977/rtp/239.93.42.13:5140
+#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="其他",爱悬疑高清
+http://wouu.net:9977/rtp/239.93.42.12:5140
+#EXTINF:-1,tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://live.fanmingming.com/tv/爱青春.png" group-title="其他",爱青春高清
+http://wouu.net:9977/rtp/239.93.42.16:5140
+#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://live.fanmingming.com/tv/爱都市.png" group-title="其他",爱都市高清
+http://wouu.net:9977/rtp/239.93.42.15:5140
+#EXTINF:-1,tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://live.fanmingming.com/tv/少儿天地.png" group-title="其他",少儿天地
+http://wouu.net:9977/rtp/239.93.42.34:5140
+#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="其他",爱幼教高清
+http://wouu.net:9977/rtp/239.93.42.17:5140
+#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="其他",爱玩具高清
+http://wouu.net:9977/rtp/239.93.42.18:5140
+#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="其他",爱动漫高清
+http://wouu.net:9977/rtp/239.93.42.23:5140
+#EXTINF:-1,tvg-id="求索频道高清" tvg-name="求索频道高清" tvg-logo="https://live.fanmingming.com/tv/求索频道.png" group-title="其他",求索频道高清
+http://wouu.net:9977/rtp/239.93.42.24:5140
+#EXTINF:-1,tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="其他",爱电竞高清
+http://wouu.net:9977/rtp/239.93.42.19:5140
+#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="其他",爱赛车高清
+http://wouu.net:9977/rtp/239.93.42.20:5140
+#EXTINF:-1,tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://live.fanmingming.com/tv/爱宠宠物.png" group-title="其他",爱宠宠物
+http://wouu.net:9977/rtp/239.93.42.32:5140
+#EXTINF:-1,tvg-id="风尚生活" tvg-name="风尚生活" tvg-logo="https://live.fanmingming.com/tv/风尚生活.png" group-title="其他",风尚生活
+http://wouu.net:9977/rtp/239.93.42.29:5140
+#EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://live.fanmingming.com/tv/幸福娱乐.png" group-title="其他",幸福娱乐
+http://wouu.net:9977/rtp/239.93.42.31:5140
+#EXTINF:-1,tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://live.fanmingming.com/tv/来钓鱼吧.png" group-title="其他",来钓鱼吧
+http://wouu.net:9977/rtp/239.93.42.8:5140
+#EXTINF:-1,tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://live.fanmingming.com/tv/麻辣体育.png" group-title="其他",麻辣体育
+http://wouu.net:9977/rtp/239.93.42.2:5140
+#EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="其他",先锋乒羽
+http://wouu.net:9977/rtp/239.93.42.56:5140
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="其他",茶频道
+http://wouu.net:9977/rtp/239.93.0.114:5140
+#EXTINF:-1,tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://live.fanmingming.com/tv/乐龄学堂.png" group-title="其他",乐龄学堂
+http://wouu.net:9977/rtp/239.93.1.179:5140
+#EXTINF:-1,tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://live.fanmingming.com/tv/热血剧场.png" group-title="其他",热血剧场
+http://wouu.net:9977/rtp/239.93.1.198:5140
+#EXTINF:-1,tvg-id="动画番剧" tvg-name="动画番剧" tvg-logo="https://live.fanmingming.com/tv/动画番剧.png" group-title="其他",动画番剧
+http://wouu.net:9977/rtp/239.93.1.177:5140
+#EXTINF:-1,tvg-id="熊猫24小时" tvg-name="熊猫24小时" tvg-logo="https://live.fanmingming.com/tv/熊猫24小时.png" group-title="其他",熊猫24小时
+http://wouu.net:9977/rtp/239.93.1.178:5140
+#EXTINF:-1,tvg-id="红色经典" tvg-name="红色经典" tvg-logo="https://live.fanmingming.com/tv/红色经典.png" group-title="其他",红色经典
+http://wouu.net:9977/rtp/239.93.1.176:5140
