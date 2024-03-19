@@ -59,6 +59,8 @@ http://lay6.3322.org:4022/rtp/239.3.1.134:8020
 http://lay6.3322.org:4022/rtp/239.3.1.142:8048
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://lay6.3322.org:4022/rtp/239.3.1.211:8064
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+http://lay6.3322.org:4022/rtp/239.3.1.241:8000
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 http://lay6.3322.org:4022/rtp/239.3.1.141:1234
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
@@ -185,7 +187,7 @@ http://lay6.3322.org:4022/rtp/239.3.1.67:4120
 http://lay6.3322.org:4022/rtp/239.3.1.83:4120
 #EXTINF:-1,tvg-id="好学生" tvg-name="好学生" tvg-logo="https://live.fanmingming.com/tv/好学生.png" group-title="其他",好学生
 http://lay6.3322.org:4022/rtp/239.3.1.81:4120
-#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="山东",山东教育
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="其他",山东教育
 http://lay6.3322.org:4022/rtp/239.3.1.52:4120
 #EXTINF:-1,tvg-id="CCTV戏曲" tvg-name="CCTV戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV戏曲.png" group-title="其他",戏曲
 http://lay6.3322.org:4022/rtp/239.3.1.78:4120
@@ -215,33 +217,31 @@ http://lay6.3322.org:4022/rtp/239.3.1.70:4120
 http://lay6.3322.org:4022/rtp/239.3.1.88:4120
 #EXTINF:-1,tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTV魅力时尚.png" group-title="其他",魅力时尚
 http://lay6.3322.org:4022/rtp/239.3.1.196:9012
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",BRTV北京卫视
-http://lay6.3322.org:4022/rtp/239.3.1.241:8000
-#EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://live.fanmingming.com/tv/BRTV新闻.png" group-title="其他",BRTV新闻
+#EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",BRTV新闻
 http://lay6.3322.org:4022/rtp/239.3.1.159:8000
-#EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://live.fanmingming.com/tv/BRTV影视.png" group-title="其他",BRTV影视
+#EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京",BRTV影视
 http://lay6.3322.org:4022/rtp/239.3.1.158:8000
-#EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://live.fanmingming.com/tv/BRTV文艺.png" group-title="其他",BRTV文艺
+#EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京",BRTV文艺
 http://lay6.3322.org:4022/rtp/239.3.1.242:8000
-#EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://live.fanmingming.com/tv/BRTV财经.png" group-title="其他",BRTV财经
+#EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京",BRTV财经
 http://lay6.3322.org:4022/rtp/239.3.1.116:8000
-#EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://live.fanmingming.com/tv/BRTV生活.png" group-title="其他",BRTV生活
+#EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京",BRTV生活
 http://lay6.3322.org:4022/rtp/239.3.1.117:8000
-#EXTINF:-1,tvg-id="BRTV青年" tvg-name="BRTV青年" tvg-logo="https://live.fanmingming.com/tv/BRTV青年.png" group-title="其他",BRTV青年
+#EXTINF:-1,tvg-id="BRTV青年" tvg-name="BRTV青年" tvg-logo="https://live.fanmingming.com/tv/北京青年.png" group-title="北京",BRTV青年
 # http://lay6.3322.org:4022/rtp/239.3.1.118:8000
-#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/BRTV纪实科教.png" group-title="其他",BRTV纪实科教
+#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",BRTV纪实科教
 http://lay6.3322.org:4022/rtp/239.3.1.115:8000
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",BRTV卡酷少儿
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",BRTV卡酷少儿
 http://lay6.3322.org:4022/rtp/239.3.1.189:8000
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="其他",BRTV冬奥纪实
-# http://lay6.3322.org:4022/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="其他",BRTV冬奥纪实[超清HDR]
-# http://lay6.3322.org:4022/rtp/239.3.1.120:8000
-#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="其他",BRTV冬奥纪实[超清]
-# http://lay6.3322.org:4022/rtp/239.3.1.121:8000
-#EXTINF:-1,tvg-id="BRTV体育休闲[超清]" tvg-name="BRTV体育休闲[超清]" tvg-logo="https://live.fanmingming.com/tv/BRTV体育休闲.png" group-title="其他",BRTV体育休闲[超清]
+#EXTINF:-1,tvg-id="体育休闲" tvg-name="体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京",BRTV体育休闲
 http://lay6.3322.org:4022/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://live.fanmingming.com/tv/BRTV国际.png" group-title="其他",BRTV国际频道
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="北京",BRTV冬奥纪实[超清HDR]
+# http://lay6.3322.org:4022/rtp/239.3.1.120:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="北京",BRTV冬奥纪实[超清]
+# http://lay6.3322.org:4022/rtp/239.3.1.121:8000
+#EXTINF:-1,tvg-id="BRTV体育休闲[超清]" tvg-name="BRTV体育休闲[超清]" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京",BRTV体育休闲[超清]
+http://lay6.3322.org:4022/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="BRTV国际频道" tvg-name="BRTV国际频道" tvg-logo="https://live.fanmingming.com/tv/BRTV国际.png" group-title="北京",BRTV国际频道
 http://lay6.3322.org:4022/rtp/239.3.1.235:8000
 #EXTINF:-1,tvg-id="爱上4K[超清]" tvg-name="爱上4K[超清]" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="其他",爱上4K[超清]
 http://lay6.3322.org:4022/rtp/239.3.1.236:2000
