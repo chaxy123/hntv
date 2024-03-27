@@ -21,12 +21,10 @@ urls = [
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIGNpdHk9Inh1Y2hhbmci",  # 河南xc
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIGNpdHk9InpoZW5nemhvdSI%3D",  # 河南zz
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIGNpdHk9ImthaWZlbmci",  # 河南kf
-    "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIGNpdHk9Imx1b3lhbmci",  # 河南ly
     "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22henan%22",    #河南
     "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bcity%3A%22xuchang%22",    #河南xc
     "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bcity%3A%22zhengzhou%22",    #河南zz
     "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bcity%3A%22kaifeng%22",    #河南kf
-    "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bcity%3A%22luoyang%22",    #河南ly
     ]
 
 def modify_urls(url):
@@ -206,6 +204,7 @@ for url in urls:
                             name = name.replace("内蒙卫视", "内蒙古卫视")
                             name = name.replace("天津卫视台", "天津卫视")
                             name = name.replace("CCTV英语新闻", "CGTN")
+                            name = name.replace("中央16高清", "CGTN")                            
                             name = name.replace("广东南方卫视", "大湾区卫视")
                             name = name.replace("梨园", "河南梨园")
                             name = name.replace("河南河南梨园", "河南梨园")
