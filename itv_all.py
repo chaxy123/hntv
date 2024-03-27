@@ -212,10 +212,11 @@ for url in urls:
                             name = name.replace("河南河南梨园", "河南梨园")
                             name = name.replace("河南法制", "河南法治")
                             name = name.replace("法制", "河南法治")
-                            name = name.replace("新闻", "新闻")
-                            name = name.replace("都市", "都市")
-                            name = name.replace("公共", "公共")
-                            name = name.replace("民生", "民生")
+                            name = name.replace("新闻", "河南新闻")
+                            name = name.replace("都市", "河南都市")
+                            name = name.replace("公共", "河南公共")
+                            name = name.replace("民生", "河南民生")
+                            name = name.replace("CCTV7-军农", "CCTV17")
                             results.append(f"{name},{urld}")
             except:
                 continue
