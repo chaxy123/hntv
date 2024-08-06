@@ -1,0 +1,1043 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",[1920*1080]CCTV1 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",[1920*1080]CCTV1 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000030810/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030810
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",[1920*1080]CCTV1 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265001
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",[1920*1080]CCTV1 7.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000002226/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000002226
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",[1920*1080]CCTV1 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",[1920*1080]CCTV2 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000012442/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012442
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",[1920*1080]CCTV2 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265002
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",[1920*1080]CCTV2 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",[1920*1080]CCTV3 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000011218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011218
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",[1920*1080]CCTV3 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000020548/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000020548
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",[1920*1080]CCTV3 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265003
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",[1920*1080]CCTV3 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",[1920*1080]CCTV4 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000031664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031664
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",[1920*1080]CCTV4 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265004
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",[1920*1080]CCTV4 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",[1920*1080]CCTV5 12M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",[1920*1080]CCTV5 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000003000030177/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000030177
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",[1920*1080]CCTV5 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000026930/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000026930
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",[1920*1080]CCTV5 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265005
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",[1920*1080]CCTV5 6.8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000008885/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008885
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",[1920*1080]CCTV5+ 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265016/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265016
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",[1920*1080]CCTV5+ 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018504/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018504
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",[1920*1080]CCTV6 6.8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000008886/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008886
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",[1920*1080]CCTV7 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000017218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017218
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",[1920*1080]CCTV7 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265007
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",[1920*1080]CCTV7 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",[1920*1080]CCTV8 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265008/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265008
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",[1920*1080]CCTV8 6.8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000008888/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008888
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",[1920*1080]CCTV8 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",[1920*1080]CCTV8 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000031433/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000031433
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",[1920*1080]CCTV9 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000018384/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018384
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",[1920*1080]CCTV9 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",[1920*1080]CCTV10 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000016738/index.m3u8?livemode=1&stbId=3&channel-id=bestzb&Contentid=5000000010000016738
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",[1920*1080]CCTV10 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265010/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265010
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",[1920*1080]CCTV10 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",[1920*1080]CCTV10 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000012827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000012827
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",[1920*1080]CCTV11 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000019789/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019789
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",[1920*1080]CCTV11 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040011/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040011
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",[1920*1080]CCTV11 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265011/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265011
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",[1920*1080]CCTV12 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",[1920*1080]CCTV12 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265012/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265012
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",[1920*1080]CCTV12 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",[1920*1080]CCTV13 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000021303/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021303
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",[1920*1080]CCTV13 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",[1920*1080]CCTV13 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",[1920*1080]CCTV15 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000008163/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000008163
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",[1920*1080]CCTV15 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265014/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265014
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",[1920*1080]CCTV15 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",[1920*1080]CCTV16 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",[1920*1080]CCTV16 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000233001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233001
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",[1920*1080]CCTV17 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000056836/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000056836
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",[1920*1080]CCTV17 8M
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央",[720*540]CCTV2
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央",[720*540]CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040012/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040012
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央",[720*540]CCTV15
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000005000018417/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000018417
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]CETV4 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031126/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031126
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]北京卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000017156/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]北京卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000011502/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000011502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]北京卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265027/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]北京卫视 7.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000031556/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000031556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]北京卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000021288/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]北京纪实科教 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000028380/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028380
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]北京纪实科教 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265020/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]北京纪实科教 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001910/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]北京纪实科教 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]东方卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]东方卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000005866/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000005866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]东方卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000014098/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000014098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视东方影视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视五星体育 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视动漫秀场 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031113/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视国际频道 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000030951/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030951
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视新闻综合 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031110/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视法治天地 7M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视游戏风云 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000027005/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000027005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视游戏风云 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视生活时尚 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000019634/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000019634
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视第一财经 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视纪实人文 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000010606/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000010606
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视纪实人文 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000021713/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000021713
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视纪实人文 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265021/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视纪实人文 7.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000010282/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000010282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视都市剧场 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000004412/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000004412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视都市剧场 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031111/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视金色学堂 7M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]上视魅力足球 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]东南卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000009263/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000009263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]东南卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000005829/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000005829
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]四川卫视 7.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000006119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]天津卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000000831/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000000831
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]天津卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000030788/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000030788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]天津卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265026/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]天津卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003475/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]安徽卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000020780/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000020780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]安徽卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000027288/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000027288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]安徽卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265025/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]安徽卫视 7.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000023002/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000023002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]安徽卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000030159/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]山东卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000027763/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]山东卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265019/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]山东卫视 6.8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000020424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000020424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]山东卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000016568/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]广东卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000028357/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028357
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]广东卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000030417/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]江苏卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001828/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001828
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]江西卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013731/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]浙江卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017320/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]浙江卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265031/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]浙江卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014260/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014260
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]海南卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000023773/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000023773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]海南卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000006211/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]深圳卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000011645/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]深圳卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000024026/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000024026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]深圳卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265028/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]深圳卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009227/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]深圳卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000007410/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000007410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖北卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000010355/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000010355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖北卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265023/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖北卫视 7.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000014954/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000014954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖北卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024621/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024621
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖南卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000030452/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖南卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265024/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖南卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032695/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]湖南卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000006692/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",[1920*1080]湖南快乐垂钓 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031206/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]贵州卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000025843/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000025843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]辽宁卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000024033/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000024033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]青海卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]黑龙江卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009082/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]黑龙江卫视 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000031107/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000031107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]黑龙江卫视 5.5MHEVC
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265029/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]黑龙江卫视 6.8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000025203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000025203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",[1920*1080]黑龙江卫视 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV中国功夫 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5897056882324761054/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5897056882324761054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV农业致富 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6193684637634073625/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6193684637634073625
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV动作电影 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV动作电影 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV古装剧场 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6859053933687922163/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6859053933687922163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV家庭剧场 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000008284/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000008284
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV怡伴健康 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266011/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV惊悚悬疑 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000024282/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000024282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV欢乐剧场 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266012/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV潮妈辣婆 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6516734029835465177/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6516734029835465177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV炫舞未来 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000000515/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000000515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV精品体育 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6460382139625130259/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6460382139625130259
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV精品体育 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000014634/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000014634
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV精品纪录 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000013730/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000013730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV精品综合 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5595720619887440144/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5595720619887440144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级体育 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009204/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级体育 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000007755/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000007755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级体育 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000009601/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009601
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级电影 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000012884/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级电影 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000002120/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000002120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级电视剧 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000024993/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000024993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级电视剧 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级综艺 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000025771/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000025771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV超级综艺 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000023658/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000023658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV金牌综艺 2.5M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6399725674632152632/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6399725674632152632
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",[1920*1080]NewTV魅力潇湘 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006197/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]哒啵电竞 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000032327/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000032327
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]哒啵赛事 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003775/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]哒啵赛事 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000006906/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000006906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]哒啵赛事 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5320946857686967621/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5320946857686967621
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]黑莓动画 4M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6497762188035533951/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6497762188035533951
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]咪咕冬奥-雪上 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]咪咕精彩足球 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]咪咕视频 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]咪咕视频 8M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播3
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000004953/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000004953
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000006777/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000006777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000017342/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000017342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000018009/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000018009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000019233/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000019233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000022620/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000022620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1920*1080]百事通直播9
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000001000023256/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000023256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1280*576]CETV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000012123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000012123
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视标清",[1280*720]CCTV1
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/reallive-hdcctv1/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-hdcctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视标清",[1280*720]CCTV2
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5353323539453949720/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5353323539453949720
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视标清",[1280*720]CCTV3
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8378175926191110263/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8378175926191110263
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视标清",[1280*720]CCTV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8183388942203045169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8183388942203045169
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视标清",[1280*720]CCTV4
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000005000030093/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000030093
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视标清",[1280*720]CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/reallive-cctv5/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视标清",[1280*720]CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/reallive-cctv5plus/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv5plus
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视标清",[1280*720]CCTV6
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6117099895556651277/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6117099895556651277
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视标清",[1280*720]CCTV7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7050628689018054317/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7050628689018054317
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视标清",[1280*720]CCTV10
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7019587760656900133/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7019587760656900133
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视标清",[1280*720]CCTV12
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5325631075193490169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5325631075193490169
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视标清",[1280*720]CCTV13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6918130250570453526/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6918130250570453526
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视标清",[1280*720]CCTV14
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8203666801302077036/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8203666801302077036
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视标清",[1280*720]CCTV15
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/4832596595465032187/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4832596595465032187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/4699937686040264690/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4699937686040264690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]东方卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6081477947334326291/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6081477947334326291
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]北京卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8258663409451267714/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8258663409451267714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]北京卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8186688740528366039/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8186688740528366039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]南海网
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8978605063318475207/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8978605063318475207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]天津卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8798367982904688776/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8798367982904688776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]天津卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6707942579111517572/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6707942579111517572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]安徽卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/4774346722046993363/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4774346722046993363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]山东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7744799445271696577/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7744799445271696577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]广东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6604532991586541024/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6604532991586541024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]广东卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5616881981321254555/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5616881981321254555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]江西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5616078396620462481/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5616078396620462481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]浙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7889730693553663314/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7889730693553663314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5352218613763113657/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5352218613763113657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]深圳卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7696950400632248401/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7696950400632248401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]辽宁卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7638375013635582245/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7638375013635582245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]重庆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/4995134319251569870/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4995134319251569870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视标清",[1280*720]黑龙江卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8467838254824392379/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8467838254824392379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]CETV2
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]CGTN
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000009569/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000009569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]CGTN俄语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000280004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000280004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]CGTN法语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000280003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000280003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]CGTN西班牙语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000280002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000280002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]CGTN阿拉伯语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000280001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000280001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]上视哈哈炫动
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000000172/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000000172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]兵团卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]内蒙古卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000014080/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000014080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[1024*576]北京卡酷少儿
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000002413/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000002413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]厦门卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]吉林延边卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266008/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]宁夏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000031451/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]安多卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]安多卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7248678452522064966/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7248678452522064966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]山东教育卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7341476808603780321/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7341476808603780321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]广东嘉佳卡通
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000025964/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000025964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]新疆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000029441/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000029441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]江苏优漫卡通
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000010063/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000010063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]湖南金鹰卡通
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000016601/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000016601
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[1024*576]陕西农林卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000266003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266003
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000005000031113/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[720*540]中国天气
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000005000031974/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031974
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]云南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040019/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]兵团卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040020/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]吉林卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040013/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]宁夏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040022/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]山西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040023/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]广西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040014/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]新疆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040018/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]江苏财富天下
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031208/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]湖南金鹰卡通
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040024/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[720*540]甘肃卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040021/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[768*576]CETV2
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031201/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[768*576]CGTN
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8428799834696888424/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8428799834696888424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]上视哈哈炫动
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5101217554085087042/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5101217554085087042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]内蒙古卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5559214655508729688/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5559214655508729688
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]吉林卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6042486520432105075/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6042486520432105075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]四川卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8744805262559782299/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8744805262559782299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]宁夏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7527747602951312973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7527747602951312973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]安多卫视藏语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000022124/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000022124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]山西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/4821787565788875765/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4821787565788875765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]广西卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8069815772565148726/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8069815772565148726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]康巴卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000003000001598/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000003000001598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]新疆卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5802765535081445534/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5802765535081445534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]河北卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8360637122634561354/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8360637122634561354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]河南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7304224304099543804/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7304224304099543804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]海南卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7899627377857656087/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7899627377857656087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]甘肃卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8938598377512027715/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8938598377512027715
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]西藏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000015894/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000015894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]西藏卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6603041244077933770/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6603041244077933770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]西藏卫视藏语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/7134589828528695864/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7134589828528695864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]西藏卫视藏语
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000021549/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000021549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]贵州卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5468064193211864646/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5468064193211864646
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="普清地方",[768*576]青海卫视
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/6721180114242078041/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6721180114242078041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]东方购物 7M
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000007000010004/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]东方购物 8M
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031124/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]东方购物 8M
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031125/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031125
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]严选购物 4M
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000269005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000269005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]中视购物 4M
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000269004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000269004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]央广购物 4M
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000269001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000269001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]聚鲨环球精选
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000003651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000003651
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1920*1080]风尚购物
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000018408/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000018408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[1280*720]家有购物
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000024883/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000024883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[768*576]央广购物
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000009000012021/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000009000012021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",[768*576]江苏好享购物
+#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000003000008938/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000003000008938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",[3840*2160]纯享4K 20M
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央",CCTV1-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央",CCTV1-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中央",CCTV10-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中央",CCTV10-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中央",CCTV10-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV112" tvg-name="CCTV112" tvg-logo="https://live.fanmingming.com/tv/CCTV112.png" group-title="中央",CCTV112.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040011/index.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中央",CCTV11-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中央",CCTV11-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央",CCTV12-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040012/index.m3u8?channel-id=bestzb&Contentid=5000000006000040012&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央",CCTV12-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央",CCTV12-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中央",CCTV12-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中央",CCTV13-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中央",CCTV13-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央",CCTV14-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央",CCTV14-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000023358/index.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央",CCTV14-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央",CCTV14-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央",CCTV14-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV152" tvg-name="CCTV152" tvg-logo="https://live.fanmingming.com/tv/CCTV152.png" group-title="中央",CCTV152.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000018417/index.m3u8?channel-id=bestzb&Contentid=5000000005000018417&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央",CCTV15-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央",CCTV15-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央",CCTV15-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央",CCTV16-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央",CCTV16-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央",CCTV16-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央",CCTV16-4K12M2160HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央",CCTV17-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央",CCTV17-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央",CCTV17-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央",CCTV2-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000031113/index.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央",CCTV2-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央",CCTV2-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央",CCTV2-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央",CCTV3-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000002000020548/index.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央",CCTV3-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央",CCTV3-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央",CCTV3-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000013682/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央",CCTV3-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央",CCTV4-4M720
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央",CCTV4-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央",CCTV4-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中央",CCTV4-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央",CCTV5-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央",CCTV5-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV512" tvg-name="CCTV512" tvg-logo="https://live.fanmingming.com/tv/CCTV512.png" group-title="中央",CCTV512M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中央",CCTV5-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中央",CCTV5+-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中央",CCTV5+-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中央",CCTV5+-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中央",CCTV5+-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中央",CCTV6-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中央",CCTV6-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央",CCTV7-4M720
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000026715/index.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央",CCTV7-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央",CCTV7-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央",CCTV7-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000024341/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中央",CCTV7-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中央",CCTV8-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中央",CCTV8-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018377/index.m3u8?channel-id=bestzb&Contentid=5000000010000018377&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中央",CCTV8-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中央",CCTV8-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中央",CCTV9-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018384/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中央",CCTV9-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中央",CCTV9-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电视剧-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电视剧-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电影-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电影-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级体育-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级综艺-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级综艺-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级综艺-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV动作电影-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV金牌综艺-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品大剧-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品纪录-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品综合-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV魅力潇湘-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV怡伴健康-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV都市剧场7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV欢笑剧场-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV金色学堂7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV乐游7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV七彩戏剧7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV生活时尚-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SiTV",SiTV游戏风云7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",安徽家家购物2.5M576
+#http://gslbservzqhsw.itv.cmvideo.cn/5000000009000012022/index.m3u8?channel-id=bestzb&Contentid=5000000009000012022&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000027288/index.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000030159/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000001116/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000002898/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000004953/index.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",百视通-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京纪实科教-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000028380/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京纪实科教-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265020/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",北京家有购物-4M720
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000005000024883/index.m3u8?channel-id=ystenlive&Contentid=1000000005000024883&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京卡酷少儿-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=卫视",北京卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",北京卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000011502/index.m3u8?channel-id=bestzb&Contentid=5000000010000011502&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",北京卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000021288/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",北京卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265027/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",兵团卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040020/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",兵团卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",纯享4K17M2160
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",哒啵电竞-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",哒啵赛事-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000006906/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",福建东南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000005829/index.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",福建东南卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010584/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",福建东南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",福建东南卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",甘肃卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040021/index.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",甘肃卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",甘肃卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东大湾区卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014694/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030417/index.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东珠江2.5M720
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广西卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040014/index.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广西卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",贵州卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",贵州卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海南卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河北卫视7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河北卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河南卫视-4M720
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000017925/index.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河南卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000027731/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑龙江卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000025203/index.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑龙江卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000031107/index.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑龙江卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑龙江卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖北卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014954/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖北卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000022140/index.m3u8?channel-id=bestzb&Contentid=5000000010000022140&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖北卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖北卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000024621/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖北卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265023/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南茶频道-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南金鹰卡通-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南金鹰卡通-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖南快乐垂钓-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006692/index.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030452/index.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000032695/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265024/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",吉林卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000003651/index.m3u8?channel-id=ystenlive&Contentid=1000000005000003651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000005000004811/index.m3u8?channel-id=ystenlive&Contentid=1000000005000004811&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000005000018408/index.m3u8?channel-id=ystenlive&Contentid=1000000005000018408&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000006000269001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000269001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000006000269002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000269002&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000006000269003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000269003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",几个购物频道轮播-4M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/1000000006000269005/index.m3u8?channel-id=ystenlive&Contentid=1000000006000269005&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",家庭理财频道2.5M576
+#http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031210/index.m3u8?channel-id=bestzb&Contentid=5000000011000031210&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",江苏好享购物2.5M576
+#http://gslbservzqhsw.itv.cmvideo.cn/5000000003000008938/index.m3u8?channel-id=bestzb&Contentid=5000000003000008938&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江苏卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018509/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江苏卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000004684/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江西卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000032154/index.m3u8?channel-id=bestzb&Contentid=5000000001000032154&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江西卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000011210/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江西卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江西卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江西卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",辽宁卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000008940/index.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",辽宁卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000011671/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",辽宁卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001945/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",辽宁卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",辽宁卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265022/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕全民热练-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕视频-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕视频-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕视频-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕视频-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕视频-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270005/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",咪咕视频-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000270006/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",内蒙古卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000014080/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",宁夏卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040022/index.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",宁夏卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000031451/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",青海安多卫视2.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000022124/index.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",青海安多卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",青海卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",青海卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",厦门卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000020424/index.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027763/index.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000016568/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山西卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山西卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山西优购物2.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000009000012023/index.m3u8?channel-id=bestzb&Contentid=5000000009000012023&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",陕西农林卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",陕西卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040017/index.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",陕西卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上海ICS外语-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上海第一财经-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",上海东方购物7M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031124/index.m3u8?channel-id=bestzb&Contentid=5000000011000031124&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分组",上海东方购物7M-1080
+#http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031125/index.m3u8?channel-id=bestzb&Contentid=5000000011000031125&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",上海东方卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",上海东方卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",上海东方卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",上海东方卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",上海东方卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海哈哈炫动-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海哈哈炫动7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海纪实人文-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000001000021713/index.m3u8?channel-id=bestzb&Contentid=5000000001000021713&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海纪实人文7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海纪实人文-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000010606/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海纪实人文-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海纪实人文-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265021/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海新闻综合7M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",深圳卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000024026/index.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",深圳卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000011645/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",四川康巴卫视2.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000003000001598/index.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",四川康巴卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",四川卫视7.5M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",天津卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",天津卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",天津卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265026/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏藏语卫视2.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000002000021549/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",西藏卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000015894/index.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",新疆卫视-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000029441/index.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",云南卫视-4M540
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040019/index.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",云南卫视-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",云南卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",浙江卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017320/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",浙江卫视-5.5M-1080HEVC
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国教育1-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国教育22.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031201/index.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国教育2-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000266004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国教育42.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000006000012123/index.m3u8?channel-id=bestzb&Contentid=5000000006000012123&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国教育4-6.-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国教育4-4M576
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000025333/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中国天气2.5M576
+http://gslbservzqhsw.itv.cmvideo.cn/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",重庆卫视-8M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001096/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",重庆卫视-4M-1080
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
