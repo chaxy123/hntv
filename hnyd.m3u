@@ -91,8 +91,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8 
 #EXTINF:-1,tvg-id="河南乡村频道" tvg-name="河南乡村频道" tvg-logo="https://epg.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8 
-#EXTINF:-1,tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" group-title="河南",河南国际频道
-#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+#EXTINF:-1,tvg-id="河南中华功夫" tvg-name="河南中华功夫" tvg-logo="https://epg.112114.xyz/logo/中华功夫.png" group-title="河南",河南国际频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 #EXTINF:-1,tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="https://epg.112114.xyz/logo/河南4K实验.png" group-title="4K频道",河南4K实验
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1,tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://epg.112114.xyz/logo/河南导视.png" group-title="河南",河南导视
@@ -100,7 +100,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
 #EXTINF:-1,tvg-id="直播河南" tvg-name="直播河南" tvg-logo="https://epg.112114.xyz/logo/直播河南.png" group-title="河南",直播河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226489/index.m3u8
 #EXTINF:-1,tvg-id="许昌公共" tvg-name="许昌公共" tvg-logo="https://epg.112114.xyz/logo/许昌公共.png" group-title="许昌",许昌公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
 #EXTINF:-1,tvg-id="许昌综合" tvg-name="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" group-title="许昌",许昌综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
 #EXTINF:-1,tvg-id="许昌农业科教" tvg-name="许昌农业科教" tvg-logo="https://epg.112114.xyz/logo/许昌农业科教.png" group-title="许昌",许昌农业科教
