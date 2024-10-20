@@ -102,7 +102,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
 #EXTINF:-1,tvg-id="直播河南" tvg-name="直播河南" tvg-logo="https://epg.112114.xyz/logo/直播河南.png" group-title="河南",直播河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226489/index.m3u8
 #EXTINF:-1,tvg-id="许昌公共" tvg-name="许昌公共" tvg-logo="https://epg.112114.xyz/logo/许昌公共.png" group-title="许昌",许昌公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
 #EXTINF:-1,tvg-id="许昌综合" tvg-name="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" group-title="许昌",许昌综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
 #EXTINF:-1,tvg-id="许昌农业科教" tvg-name="许昌农业科教" tvg-logo="https://epg.112114.xyz/logo/许昌农业科教.png" group-title="许昌",许昌农业科教
@@ -159,7 +159,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227375/index.m3u8
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name=""三沙卫视" tvg-logo="https://epg.112114.xyz/logo/"三沙卫视.png" group-title="卫视","三沙卫视
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name=""三沙卫视" tvg-logo="https://epg.112114.xyz/logo/"三沙卫视.png" group-title="卫视",三沙卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8 
