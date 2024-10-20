@@ -2,14 +2,14 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.231.232:6610/PLTV/88888888/224/3221226917/10000100000000060000000008219383_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://39.134.231.232:6610/PLTV/88888888/224/3221227113/377237187.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#http://39.134.231.232:6610/PLTV/88888888/224/3221227113/377237187.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.231.232:6610/PLTV/88888888/224/3221227119/377237461.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://39.134.231.232:6610/PLTV/88888888/224/3221227138/377237499.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#http://39.134.231.232:6610/PLTV/88888888/224/3221227138/377237499.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://39.134.231.232:6610/PLTV/88888888/224/3221227158/377237688.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+#http://39.134.231.232:6610/PLTV/88888888/224/3221227158/377237688.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="嵩县" tvg-name="嵩县" tvg-logo="https://epg.112114.xyz/logo/嵩县.png" group-title="其他",嵩县
 http://39.134.231.232:6610/PLTV/88888888/224/3221227172/377237715.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://39.134.231.232:6610/PLTV/88888888/224/3221226970/10000100000000060000000008219358_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -66,12 +66,12 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226940/100001000000000600000000
 #EXTINF:-1,tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://epg.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 http://39.134.231.232:6610/PLTV/88888888/224/3221226946/10000100000000060000000008219382_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" group-title="河南",河南国际
-http://39.134.231.232:6610/PLTV/88888888/224/3221226925/10000100000000060000000008219376_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#http://39.134.231.232:6610/PLTV/88888888/224/3221226925/10000100000000060000000008219376_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
 http://39.134.231.232:6610/PLTV/88888888/224/3221226913/10000100000000060000000008219388_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226938/10000100000000060000000008219390_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视4K
+#EXTINF:-1,tvg-id="4K试验" tvg-name="4K试验" tvg-logo="https://epg.112114.xyz/logo/4K试验.png" group-title="河南",4K试验
 http://39.134.231.232:6610/PLTV/88888888/224/3221226936/10000100000000060000000008219391_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://epg.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
 http://39.134.231.232:6610/PLTV/88888888/224/3221226948/10000100000000060000000008219379_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -95,19 +95,19 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221227124/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221227154/377237602.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://epg.112114.xyz/logo/调解剧场.png" group-title="其他",调解剧场
 http://39.134.231.232:6610/PLTV/88888888/224/3221226966/10000100000000060000000008219360_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="大象好课" tvg-name="大象好课" tvg-logo="https://epg.112114.xyz/logo/大象好课.png" group-title="其他",大象好课
+#EXTINF:-1,tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://epg.112114.xyz/logo/大美河南.png" group-title="其他",大美河南
 http://39.134.231.232:6610/PLTV/88888888/224/3221227122/10000100000000060000000011665454_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郑州都市生活" tvg-name="郑州都市生活" tvg-logo="https://epg.112114.xyz/logo/郑州都市生活.png" group-title="其他",郑州都市生活
+#EXTINF:-1,tvg-id="郑州都市生活" tvg-name="郑州都市生活" tvg-logo="https://epg.112114.xyz/logo/郑州都市生活.png" group-title="郑州",郑州都市生活
 http://39.134.231.232:6610/PLTV/88888888/224/3221227021/10000100000000060000000008223583_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郑州妇女儿童" tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.xyz/logo/郑州妇女儿童.png" group-title="其他",郑州妇女儿童
+#EXTINF:-1,tvg-id="郑州妇女儿童" tvg-name="郑州妇女儿童" tvg-logo="https://epg.112114.xyz/logo/郑州妇女儿童.png" group-title="郑州",郑州妇女儿童
 http://39.134.231.232:6610/PLTV/88888888/224/3221227050/10000100000000060000000008223580_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郑州商都频道" tvg-name="郑州商都频道" tvg-logo="https://epg.112114.xyz/logo/郑州商都.png" group-title="其他",郑州商都频道
+#EXTINF:-1,tvg-id="郑州商都频道" tvg-name="郑州商都频道" tvg-logo="https://epg.112114.xyz/logo/郑州商都.png" group-title="郑州",郑州商都频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221226955/10000100000000060000000008223504_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郑州文体旅游" tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.xyz/logo/郑州文体旅游.png" group-title="其他",郑州文体旅游
+#EXTINF:-1,tvg-id="郑州文体旅游" tvg-name="郑州文体旅游" tvg-logo="https://epg.112114.xyz/logo/郑州文体旅游.png" group-title="郑州",郑州文体旅游
 http://39.134.231.232:6610/PLTV/88888888/224/3221226996/10000100000000060000000008223506_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郑州新闻综合" tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.xyz/logo/郑州新闻综合.png" group-title="其他",郑州新闻综合
+#EXTINF:-1,tvg-id="郑州新闻综合" tvg-name="郑州新闻综合" tvg-logo="https://epg.112114.xyz/logo/郑州新闻综合.png" group-title="郑州",郑州新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226949/10000100000000060000000008223500_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郑州影视戏曲" tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.xyz/logo/郑州影视戏曲.png" group-title="其他",郑州影视戏曲
+#EXTINF:-1,tvg-id="郑州影视戏曲" tvg-name="郑州影视戏曲" tvg-logo="https://epg.112114.xyz/logo/郑州影视戏曲.png" group-title="郑州",郑州影视戏曲
 http://39.134.231.232:6610/PLTV/88888888/224/3221227000/10000100000000060000000008223511_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226975/10000100000000060000000008223459_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -165,7 +165,7 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226994/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221226982/10000100000000060000000008223498_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226990/10000100000000060000000008223493_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="https://epg.112114.xyz/logo/湖南快乐购.png" group-title="湖南",湖南快乐购
+#EXTINF:-1,tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="https://epg.112114.xyz/logo/湖南快乐购.png" group-title="其他",湖南快乐购
 http://39.134.231.232:6610/PLTV/88888888/224/3221227135/377237586.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226961/10000100000000060000000008223478_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -211,19 +211,19 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226883/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221227121/377238499.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
 http://39.134.231.232:6610/PLTV/88888888/224/3221226881/10000100000000060000000008198540_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CCTV戏曲" tvg-name="CCTV戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV戏曲.png" group-title="其他",戏曲
+#EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" group-title="河南",河南戏曲
 http://39.134.231.232:6610/PLTV/88888888/224/3221226933/10000100000000060000000008219367_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="先锋兵羽" tvg-name="先锋兵羽" tvg-logo="https://epg.112114.xyz/logo/先锋兵羽.png" group-title="其他",先锋兵羽
 http://39.134.231.232:6610/PLTV/88888888/224/3221226908/10000100000000060000000008198479_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="其他",陶瓷
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="其他",纪实人文
 http://39.134.231.232:6610/PLTV/88888888/224/3221226914/10000100000000060000000008198543_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="田园围棋" tvg-name="田园围棋" tvg-logo="https://epg.112114.xyz/logo/田园围棋.png" group-title="其他",田园围棋
+#EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="其他",优优宝贝
 http://39.134.231.232:6610/PLTV/88888888/224/3221226916/10000100000000060000000008198545_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="体育赛事" tvg-name="体育赛事" tvg-logo="https://epg.112114.xyz/logo/体育赛事.png" group-title="其他",体育赛事
 http://39.134.231.232:6610/PLTV/88888888/224/3221226891/10000100000000060000000008198598_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="文博" tvg-name="文博" tvg-logo="https://epg.112114.xyz/logo/文博.png" group-title="其他",文博
+#EXTINF:-1,tvg-id="河南收藏天下" tvg-name="河南收藏天下" tvg-logo="https://epg.112114.xyz/logo/河南收藏天下.png" group-title="河南",河南收藏天下
 http://39.134.231.232:6610/PLTV/88888888/224/3221226931/10000100000000060000000008219369_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
+#EXTINF:-1,tvg-id="河南中华功夫" tvg-name="河南中华功夫" tvg-logo="https://epg.112114.xyz/logo/河南中华功夫.png" group-title="河南",河南中华功夫
 http://39.134.231.232:6610/PLTV/88888888/224/3221226962/10000100000000060000000008219365_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
 http://39.134.231.232:6610/PLTV/88888888/224/3221226965/10000100000000060000000008223472_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -233,173 +233,173 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226963/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221226957/10000100000000060000000008223483_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="其他",优漫卡通
 http://39.134.231.232:6610/PLTV/88888888/224/3221226984/10000100000000060000000008223497_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="平顶山城市频道" tvg-name="平顶山城市频道" tvg-logo="https://epg.112114.xyz/logo/平顶山城市.png" group-title="其他",平顶山城市频道
+#EXTINF:-1,tvg-id="平顶山城市频道" tvg-name="平顶山城市频道" tvg-logo="https://epg.112114.xyz/logo/平顶山城市.png" group-title="省内地方",平顶山城市频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227007/10000100000000060000000008223606_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="平顶山新闻综合" tvg-name="平顶山新闻综合" tvg-logo="https://epg.112114.xyz/logo/平顶山新闻综合.png" group-title="其他",平顶山新闻综合
+#EXTINF:-1,tvg-id="平顶山新闻综合" tvg-name="平顶山新闻综合" tvg-logo="https://epg.112114.xyz/logo/平顶山新闻综合.png" group-title="省内地方",平顶山新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227011/10000100000000060000000008223604_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="平教育台" tvg-name="平教育台" tvg-logo="https://epg.112114.xyz/logo/平教育台.png" group-title="其他",平教育台
+#EXTINF:-1,tvg-id="平教育台" tvg-name="平教育台" tvg-logo="https://epg.112114.xyz/logo/平教育台.png" group-title="省内地方",平教育台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227215/380340943.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="焦作公共" tvg-name="焦作公共" tvg-logo="https://epg.112114.xyz/logo/焦作公共.png" group-title="其他",焦作公共
+#EXTINF:-1,tvg-id="焦作公共" tvg-name="焦作公共" tvg-logo="https://epg.112114.xyz/logo/焦作公共.png" group-title="省内地方",焦作公共
 http://39.134.231.232:6610/PLTV/88888888/224/3221227052/10000100000000060000000008223579_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="焦作教育" tvg-name="焦作教育" tvg-logo="https://epg.112114.xyz/logo/焦作教育.png" group-title="其他",焦作教育
-http://39.134.231.232:6610/PLTV/88888888/224/3221227048/10000100000000060000000008223581_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="焦作综合" tvg-name="焦作综合" tvg-logo="https://epg.112114.xyz/logo/焦作综合.png" group-title="其他",焦作综合
+#EXTINF:-1,tvg-id="焦作教育" tvg-name="焦作教育" tvg-logo="https://epg.112114.xyz/logo/焦作教育.png" group-title="省内地方",焦作教育
+#http://39.134.231.232:6610/PLTV/88888888/224/3221227048/10000100000000060000000008223581_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="焦作综合" tvg-name="焦作综合" tvg-logo="https://epg.112114.xyz/logo/焦作综合.png" group-title="省内地方",焦作综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226993/10000100000000060000000008223634_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="南阳公共" tvg-name="南阳公共" tvg-logo="https://epg.112114.xyz/logo/南阳公共.png" group-title="其他",南阳公共
+#EXTINF:-1,tvg-id="南阳公共" tvg-name="南阳公共" tvg-logo="https://epg.112114.xyz/logo/南阳公共.png" group-title="省内地方",南阳公共
 http://39.134.231.232:6610/PLTV/88888888/224/3221226864/10000100000000060000000008192569_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="南阳科教" tvg-name="南阳科教" tvg-logo="https://epg.112114.xyz/logo/南阳科教.png" group-title="其他",南阳科教
+#EXTINF:-1,tvg-id="南阳科教" tvg-name="南阳科教" tvg-logo="https://epg.112114.xyz/logo/南阳科教.png" group-title="省内地方",南阳科教
 http://39.134.231.232:6610/PLTV/88888888/224/3221226829/10000100000000060000000008192571_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="南阳新闻综合" tvg-name="南阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/南阳新闻综合.png" group-title="其他",南阳新闻综合
+#EXTINF:-1,tvg-id="南阳新闻综合" tvg-name="南阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/南阳新闻综合.png" group-title="省内地方",南阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226831/10000100000000060000000008192567_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://epg.112114.xyz/logo/开封文化旅游.png" group-title="其他",开封文化旅游
+#EXTINF:-1,tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://epg.112114.xyz/logo/开封文化旅游.png" group-title="省内地方",开封文化旅游
 http://39.134.231.232:6610/PLTV/88888888/224/3221227019/10000100000000060000000008223591_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://epg.112114.xyz/logo/开封新闻综合.png" group-title="其他",开封新闻综合
+#EXTINF:-1,tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://epg.112114.xyz/logo/开封新闻综合.png" group-title="省内地方",开封新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227046/10000100000000060000000008223586_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="洛阳科教频道" tvg-name="洛阳科教频道" tvg-logo="https://epg.112114.xyz/logo/洛阳科教.png" group-title="其他",洛阳科教频道
+#EXTINF:-1,tvg-id="洛阳科教频道" tvg-name="洛阳科教频道" tvg-logo="https://epg.112114.xyz/logo/洛阳科教.png" group-title="省内地方",洛阳科教频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227015/10000100000000060000000008223598_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="洛阳文旅频道" tvg-name="洛阳文旅频道" tvg-logo="https://epg.112114.xyz/logo/洛阳文旅.png" group-title="其他",洛阳文旅频道
+#EXTINF:-1,tvg-id="洛阳文旅频道" tvg-name="洛阳文旅频道" tvg-logo="https://epg.112114.xyz/logo/洛阳文旅.png" group-title="省内地方",洛阳文旅频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227013/10000100000000060000000008223601_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="洛阳新闻综合" tvg-name="洛阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/洛阳新闻综合.png" group-title="其他",洛阳新闻综合
+#EXTINF:-1,tvg-id="洛阳新闻综合" tvg-name="洛阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/洛阳新闻综合.png" group-title="省内地方",洛阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227017/10000100000000060000000008223595_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="漯河新闻综合" tvg-name="漯河新闻综合" tvg-logo="https://epg.112114.xyz/logo/漯河新闻综合.png" group-title="其他",漯河新闻综合
+#EXTINF:-1,tvg-id="漯河新闻综合" tvg-name="漯河新闻综合" tvg-logo="https://epg.112114.xyz/logo/漯河新闻综合.png" group-title="省内地方",漯河新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227005/10000100000000060000000008223608_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="鹤壁新闻综合" tvg-name="鹤壁新闻综合" tvg-logo="https://epg.112114.xyz/logo/鹤壁新闻综合.png" group-title="其他",鹤壁新闻综合
+#EXTINF:-1,tvg-id="鹤壁新闻综合" tvg-name="鹤壁新闻综合" tvg-logo="https://epg.112114.xyz/logo/鹤壁新闻综合.png" group-title="省内地方",鹤壁新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226999/10000100000000060000000008223621_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="濮阳公共" tvg-name="濮阳公共" tvg-logo="https://epg.112114.xyz/logo/濮阳公共.png" group-title="其他",濮阳公共
+#EXTINF:-1,tvg-id="濮阳公共" tvg-name="濮阳公共" tvg-logo="https://epg.112114.xyz/logo/濮阳公共.png" group-title="省内地方",濮阳公共
 http://39.134.231.232:6610/PLTV/88888888/224/3221227044/10000100000000060000000008223587_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="濮阳新闻综合" tvg-name="濮阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/濮阳新闻综合.png" group-title="其他",濮阳新闻综合
+#EXTINF:-1,tvg-id="濮阳新闻综合" tvg-name="濮阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/濮阳新闻综合.png" group-title="省内地方",濮阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227042/10000100000000060000000008223592_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="安阳科教" tvg-name="安阳科教" tvg-logo="https://epg.112114.xyz/logo/安阳科教.png" group-title="其他",安阳科教
+#EXTINF:-1,tvg-id="安阳科教" tvg-name="安阳科教" tvg-logo="https://epg.112114.xyz/logo/安阳科教.png" group-title="省内地方",安阳科教
 http://39.134.231.232:6610/PLTV/88888888/224/3221227032/10000100000000060000000008223617_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="安阳新闻综合" tvg-name="安阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/安阳新闻综合.png" group-title="其他",安阳新闻综合
+#EXTINF:-1,tvg-id="安阳新闻综合" tvg-name="安阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/安阳新闻综合.png" group-title="省内地方",安阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227003/10000100000000060000000008223612_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="封丘新闻综合" tvg-name="封丘新闻综合" tvg-logo="https://epg.112114.xyz/logo/封丘新闻综合.png" group-title="其他",封丘新闻综合
+#EXTINF:-1,tvg-id="封丘新闻综合" tvg-name="封丘新闻综合" tvg-logo="https://epg.112114.xyz/logo/封丘新闻综合.png" group-title="省内地方",封丘新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227140/377237548.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="巩义综合" tvg-name="巩义综合" tvg-logo="https://epg.112114.xyz/logo/巩义综合.png" group-title="其他",巩义综合
+#EXTINF:-1,tvg-id="巩义综合" tvg-name="巩义综合" tvg-logo="https://epg.112114.xyz/logo/巩义综合.png" group-title="省内地方",巩义综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227071/10000100000000060000000009818977_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="三门峡新闻综合" tvg-name="三门峡新闻综合" tvg-logo="https://epg.112114.xyz/logo/三门峡新闻综合.png" group-title="其他",三门峡新闻综合
+#EXTINF:-1,tvg-id="三门峡新闻综合" tvg-name="三门峡新闻综合" tvg-logo="https://epg.112114.xyz/logo/三门峡新闻综合.png" group-title="省内地方",三门峡新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227034/10000100000000060000000008223613_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="商丘公共频道" tvg-name="商丘公共频道" tvg-logo="https://epg.112114.xyz/logo/商丘公共.png" group-title="其他",商丘公共频道
+#EXTINF:-1,tvg-id="商丘公共频道" tvg-name="商丘公共频道" tvg-logo="https://epg.112114.xyz/logo/商丘公共.png" group-title="省内地方",商丘公共频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227030/10000100000000060000000008223624_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="商丘文体科教" tvg-name="商丘文体科教" tvg-logo="https://epg.112114.xyz/logo/商丘文体科教.png" group-title="其他",商丘文体科教
+#EXTINF:-1,tvg-id="商丘文体科教" tvg-name="商丘文体科教" tvg-logo="https://epg.112114.xyz/logo/商丘文体科教.png" group-title="省内地方",商丘文体科教
 http://39.134.231.232:6610/PLTV/88888888/224/3221227028/10000100000000060000000008223629_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="商丘新闻综合" tvg-name="商丘新闻综合" tvg-logo="https://epg.112114.xyz/logo/商丘新闻综合.png" group-title="其他",商丘新闻综合
+#EXTINF:-1,tvg-id="商丘新闻综合" tvg-name="商丘新闻综合" tvg-logo="https://epg.112114.xyz/logo/商丘新闻综合.png" group-title="省内地方",商丘新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227001/10000100000000060000000008223616_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="新密综合" tvg-name="新密综合" tvg-logo="https://epg.112114.xyz/logo/新密综合.png" group-title="其他",新密综合
+#EXTINF:-1,tvg-id="新密综合" tvg-name="新密综合" tvg-logo="https://epg.112114.xyz/logo/新密综合.png" group-title="省内地方",新密综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227152/377237528.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="新乡公共" tvg-name="新乡公共" tvg-logo="https://epg.112114.xyz/logo/新乡公共.png" group-title="其他",新乡公共
+#EXTINF:-1,tvg-id="新乡公共" tvg-name="新乡公共" tvg-logo="https://epg.112114.xyz/logo/新乡公共.png" group-title="省内地方",新乡公共
 http://39.134.231.232:6610/PLTV/88888888/224/3221226995/10000100000000060000000008223630_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="新乡县综合" tvg-name="新乡县综合" tvg-logo="https://epg.112114.xyz/logo/新乡县综合.png" group-title="其他",新乡县综合
+#EXTINF:-1,tvg-id="新乡县综合" tvg-name="新乡县综合" tvg-logo="https://epg.112114.xyz/logo/新乡县综合.png" group-title="省内地方",新乡县综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227125/377237565.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="新乡新闻综合" tvg-name="新乡新闻综合" tvg-logo="https://epg.112114.xyz/logo/新乡新闻综合.png" group-title="其他",新乡新闻综合
+#EXTINF:-1,tvg-id="新乡新闻综合" tvg-name="新乡新闻综合" tvg-logo="https://epg.112114.xyz/logo/新乡新闻综合.png" group-title="省内地方",新乡新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226997/10000100000000060000000008223628_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="新郑综合" tvg-name="新郑综合" tvg-logo="https://epg.112114.xyz/logo/新郑综合.png" group-title="其他",新郑综合
+#EXTINF:-1,tvg-id="新郑综合" tvg-name="新郑综合" tvg-logo="https://epg.112114.xyz/logo/新郑综合.png" group-title="省内地方",新郑综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227143/377237653.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="信阳文旅频道" tvg-name="信阳文旅频道" tvg-logo="https://epg.112114.xyz/logo/信阳文旅.png" group-title="其他",信阳文旅频道
+#EXTINF:-1,tvg-id="信阳文旅频道" tvg-name="信阳文旅频道" tvg-logo="https://epg.112114.xyz/logo/信阳文旅.png" group-title="省内地方",信阳文旅频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221226825/10000100000000060000000008192577_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="信阳新闻综合" tvg-name="信阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/信阳新闻综合.png" group-title="其他",信阳新闻综合
+#EXTINF:-1,tvg-id="信阳新闻综合" tvg-name="信阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/信阳新闻综合.png" group-title="省内地方",信阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226827/10000100000000060000000008192574_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="许昌公共" tvg-name="许昌公共" tvg-logo="https://epg.112114.xyz/logo/许昌公共.png" group-title="其他",许昌公共
-http://39.134.231.232:6610/PLTV/88888888/224/3221227009/10000100000000060000000008223605_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="许昌农业科教" tvg-name="许昌农业科教" tvg-logo="https://epg.112114.xyz/logo/许昌农业科教.png" group-title="其他",许昌农业科教
+#EXTINF:-1,tvg-id="许昌公共" tvg-name="许昌公共" tvg-logo="https://epg.112114.xyz/logo/许昌公共.png" group-title="省内地方",许昌公共
+#http://39.134.231.232:6610/PLTV/88888888/224/3221227009/10000100000000060000000008223605_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="许昌农业科教" tvg-name="许昌农业科教" tvg-logo="https://epg.112114.xyz/logo/许昌农业科教.png" group-title="许昌",许昌农业科教
 http://39.134.231.232:6610/PLTV/88888888/224/3221227040/10000100000000060000000008223599_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="许昌综合" tvg-name="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" group-title="其他",许昌综合
+#EXTINF:-1,tvg-id="许昌综合" tvg-name="许昌综合" tvg-logo="https://epg.112114.xyz/logo/许昌综合.png" group-title="许昌",许昌综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227038/10000100000000060000000008223602_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="周口公共频道" tvg-name="周口公共频道" tvg-logo="https://epg.112114.xyz/logo/周口公共.png" group-title="其他",周口公共频道
+#EXTINF:-1,tvg-id="周口公共频道" tvg-name="周口公共频道" tvg-logo="https://epg.112114.xyz/logo/周口公共.png" group-title="省内地方",周口公共频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227024/10000100000000060000000008223635_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="周口公共频道" tvg-name="周口公共频道" tvg-logo="https://epg.112114.xyz/logo/周口公共.png" group-title="其他",周口公共频道
+#EXTINF:-1,tvg-id="周口公共频道" tvg-name="周口公共频道" tvg-logo="https://epg.112114.xyz/logo/周口公共.png" group-title="省内地方",周口公共频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227036/10000100000000060000000008223609_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="周口教育频道" tvg-name="周口教育频道" tvg-logo="https://epg.112114.xyz/logo/周口教育.png" group-title="其他",周口教育频道
+#EXTINF:-1,tvg-id="周口教育频道" tvg-name="周口教育频道" tvg-logo="https://epg.112114.xyz/logo/周口教育.png" group-title="省内地方",周口教育频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221226817/10000100000000060000000008192499_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="周口新闻综合" tvg-name="周口新闻综合" tvg-logo="https://epg.112114.xyz/logo/周口新闻综合.png" group-title="其他",周口新闻综合
+#EXTINF:-1,tvg-id="周口新闻综合" tvg-name="周口新闻综合" tvg-logo="https://epg.112114.xyz/logo/周口新闻综合.png" group-title="省内地方",周口新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227026/10000100000000060000000008223631_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郸城综合" tvg-name="郸城综合" tvg-logo="https://epg.112114.xyz/logo/郸城综合.png" group-title="其他",郸城综合
+#EXTINF:-1,tvg-id="郸城综合" tvg-name="郸城综合" tvg-logo="https://epg.112114.xyz/logo/郸城综合.png" group-title="省内地方",郸城综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227087/10000100000000060000000009847254_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="驻马店公共频道" tvg-name="驻马店公共频道" tvg-logo="https://epg.112114.xyz/logo/驻马店公共.png" group-title="其他",驻马店公共频道
+#EXTINF:-1,tvg-id="驻马店公共频道" tvg-name="驻马店公共频道" tvg-logo="https://epg.112114.xyz/logo/驻马店公共.png" group-title="省内地方",驻马店公共频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221226868/10000100000000060000000008192564_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="驻马店科教频道" tvg-name="驻马店科教频道" tvg-logo="https://epg.112114.xyz/logo/驻马店科教.png" group-title="其他",驻马店科教频道
+#EXTINF:-1,tvg-id="驻马店科教频道" tvg-name="驻马店科教频道" tvg-logo="https://epg.112114.xyz/logo/驻马店科教.png" group-title="省内地方",驻马店科教频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221226833/10000100000000060000000008192505_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="驻马店新闻综合" tvg-name="驻马店新闻综合" tvg-logo="https://epg.112114.xyz/logo/驻马店新闻综合.png" group-title="其他",驻马店新闻综合
+#EXTINF:-1,tvg-id="驻马店新闻综合" tvg-name="驻马店新闻综合" tvg-logo="https://epg.112114.xyz/logo/驻马店新闻综合.png" group-title="省内地方",驻马店新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221226870/10000100000000060000000008192503_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="登封综合" tvg-name="登封综合" tvg-logo="https://epg.112114.xyz/logo/登封综合.png" group-title="其他",登封综合
+#EXTINF:-1,tvg-id="登封综合" tvg-name="登封综合" tvg-logo="https://epg.112114.xyz/logo/登封综合.png" group-title="省内地方",登封综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227141/377237641.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="方城" tvg-name="方城" tvg-logo="https://epg.112114.xyz/logo/方城.png" group-title="其他",方城
+#EXTINF:-1,tvg-id="方城" tvg-name="方城" tvg-logo="https://epg.112114.xyz/logo/方城.png" group-title="省内地方",方城
 http://39.134.231.232:6610/PLTV/88888888/224/3221227252/381788370.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="光山综合" tvg-name="光山综合" tvg-logo="https://epg.112114.xyz/logo/光山综合.png" group-title="其他",光山综合
+#EXTINF:-1,tvg-id="光山综合" tvg-name="光山综合" tvg-logo="https://epg.112114.xyz/logo/光山综合.png" group-title="省内地方",光山综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227148/377238551.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="淮滨综合" tvg-name="淮滨综合" tvg-logo="https://epg.112114.xyz/logo/淮滨综合.png" group-title="其他",淮滨综合
+#EXTINF:-1,tvg-id="淮滨综合" tvg-name="淮滨综合" tvg-logo="https://epg.112114.xyz/logo/淮滨综合.png" group-title="省内地方",淮滨综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227128/10000100000000060000000011665591_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="获嘉综合" tvg-name="获嘉综合" tvg-logo="https://epg.112114.xyz/logo/获嘉综合.png" group-title="其他",获嘉综合
+#EXTINF:-1,tvg-id="获嘉综合" tvg-name="获嘉综合" tvg-logo="https://epg.112114.xyz/logo/获嘉综合.png" group-title="省内地方",获嘉综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227116/10000100000000060000000011525615_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="郏县综合" tvg-name="郏县综合" tvg-logo="https://epg.112114.xyz/logo/郏县综合.png" group-title="其他",郏县综合
+#EXTINF:-1,tvg-id="郏县综合" tvg-name="郏县综合" tvg-logo="https://epg.112114.xyz/logo/郏县综合.png" group-title="省内地方",郏县综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227155/377237952.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="灵宝综合频道" tvg-name="灵宝综合频道" tvg-logo="https://epg.112114.xyz/logo/灵宝综合.png" group-title="其他",灵宝综合频道
+#EXTINF:-1,tvg-id="灵宝综合频道" tvg-name="灵宝综合频道" tvg-logo="https://epg.112114.xyz/logo/灵宝综合.png" group-title="省内地方",灵宝综合频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227118/10000100000000060000000011567370_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="卢氏综合" tvg-name="卢氏综合" tvg-logo="https://epg.112114.xyz/logo/卢氏综合.png" group-title="其他",卢氏综合
+#EXTINF:-1,tvg-id="卢氏综合" tvg-name="卢氏综合" tvg-logo="https://epg.112114.xyz/logo/卢氏综合.png" group-title="省内地方",卢氏综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227120/10000100000000060000000011665413_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="孟津综合" tvg-name="孟津综合" tvg-logo="https://epg.112114.xyz/logo/孟津综合.png" group-title="其他",孟津综合
+#EXTINF:-1,tvg-id="孟津综合" tvg-name="孟津综合" tvg-logo="https://epg.112114.xyz/logo/孟津综合.png" group-title="省内地方",孟津综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227145/377237754.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="孟州-1" tvg-name="孟州-1" tvg-logo="https://epg.112114.xyz/logo/孟州1.png" group-title="其他",孟州-1
+#EXTINF:-1,tvg-id="孟州综合" tvg-name="孟州综合" tvg-logo="https://epg.112114.xyz/logo/孟州综合.png" group-title="省内地方",孟州综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227160/377238048.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="渑池新闻综合" tvg-name="渑池新闻综合" tvg-logo="https://epg.112114.xyz/logo/渑池新闻综合.png" group-title="其他",渑池新闻综合
+#EXTINF:-1,tvg-id="渑池新闻综合" tvg-name="渑池新闻综合" tvg-logo="https://epg.112114.xyz/logo/渑池新闻综合.png" group-title="省内地方",渑池新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227162/377237765.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="内黄综合" tvg-name="内黄综合" tvg-logo="https://epg.112114.xyz/logo/内黄综合.png" group-title="其他",内黄综合
+#EXTINF:-1,tvg-id="内黄综合" tvg-name="内黄综合" tvg-logo="https://epg.112114.xyz/logo/内黄综合.png" group-title="省内地方",内黄综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227115/377237282.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="平桥广电中心" tvg-name="平桥广电中心" tvg-logo="https://epg.112114.xyz/logo/平桥广电中心.png" group-title="其他",平桥广电中心
+#EXTINF:-1,tvg-id="平桥广电中心" tvg-name="平桥广电中心" tvg-logo="https://epg.112114.xyz/logo/平桥广电中心.png" group-title="省内地方",平桥广电中心
 http://39.134.231.232:6610/PLTV/88888888/224/3221227111/377238198.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="淇县电视台" tvg-name="淇县电视台" tvg-logo="https://epg.112114.xyz/logo/淇县电视台.png" group-title="其他",淇县电视台
+#EXTINF:-1,tvg-id="淇县电视台" tvg-name="淇县电视台" tvg-logo="https://epg.112114.xyz/logo/淇县电视台.png" group-title="省内地方",淇县电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227161/377394294.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="杞县新闻综合" tvg-name="杞县新闻综合" tvg-logo="https://epg.112114.xyz/logo/杞县新闻综合.png" group-title="其他",杞县新闻综合
+#EXTINF:-1,tvg-id="杞县新闻综合" tvg-name="杞县新闻综合" tvg-logo="https://epg.112114.xyz/logo/杞县新闻综合.png" group-title="省内地方",杞县新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227085/10000100000000060000000009847239_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="沁阳新闻综合" tvg-name="沁阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/沁阳新闻综合.png" group-title="其他",沁阳新闻综合
+#EXTINF:-1,tvg-id="沁阳新闻综合" tvg-name="沁阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/沁阳新闻综合.png" group-title="省内地方",沁阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227149/377238058.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="汝阳综合频道" tvg-name="汝阳综合频道" tvg-logo="https://epg.112114.xyz/logo/汝阳综合.png" group-title="其他",汝阳综合频道
+#EXTINF:-1,tvg-id="汝阳综合频道" tvg-name="汝阳综合频道" tvg-logo="https://epg.112114.xyz/logo/汝阳综合.png" group-title="省内地方",汝阳综合频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227077/10000100000000060000000009818984_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="上蔡-1" tvg-name="上蔡-1" tvg-logo="https://epg.112114.xyz/logo/上蔡1.png" group-title="其他",上蔡-1
+#EXTINF:-1,tvg-id="上蔡-1" tvg-name="上蔡-1" tvg-logo="https://epg.112114.xyz/logo/上蔡1.png" group-title="省内地方",上蔡-1
 http://39.134.231.232:6610/PLTV/88888888/224/3221227073/10000100000000060000000009819024_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="浉河广电中心" tvg-name="浉河广电中心" tvg-logo="https://epg.112114.xyz/logo/浉河广电中心.png" group-title="其他",浉河广电中心
+#EXTINF:-1,tvg-id="浉河广电中心" tvg-name="浉河广电中心" tvg-logo="https://epg.112114.xyz/logo/浉河广电中心.png" group-title="省内地方",浉河广电中心
 http://39.134.231.232:6610/PLTV/88888888/224/3221227109/377236894.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="LYTV" tvg-name="LYTV" tvg-logo="https://epg.112114.xyz/logo/LYTV.png" group-title="其他",LYTV
+#EXTINF:-1,tvg-id="LYTV" tvg-name="LYTV" tvg-logo="https://epg.112114.xyz/logo/LYTV.png" group-title="省内地方",LYTV
 http://39.134.231.232:6610/PLTV/88888888/224/3221227101/10000100000000060000000011665338_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="NLTV综合" tvg-name="NLTV综合" tvg-logo="https://epg.112114.xyz/logo/NLTV综合.png" group-title="其他",NLTV综合
+#EXTINF:-1,tvg-id="NLTV综合" tvg-name="NLTV综合" tvg-logo="https://epg.112114.xyz/logo/NLTV综合.png" group-title="省内地方",NLTV综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227104/10000100000000060000000009847244_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="唐河" tvg-name="唐河" tvg-logo="https://epg.112114.xyz/logo/唐河.png" group-title="其他",唐河
+#EXTINF:-1,tvg-id="唐河" tvg-name="唐河" tvg-logo="https://epg.112114.xyz/logo/唐河.png" group-title="省内地方",唐河
 http://39.134.231.232:6610/PLTV/88888888/224/3221227075/10000100000000060000000009819017_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="宝丰-1" tvg-name="宝丰-1" tvg-logo="https://epg.112114.xyz/logo/宝丰1.png" group-title="其他",宝丰-1
+#EXTINF:-1,tvg-id="宝丰-1" tvg-name="宝丰-1" tvg-logo="https://epg.112114.xyz/logo/宝丰1.png" group-title="省内地方",宝丰-1
 http://39.134.231.232:6610/PLTV/88888888/224/3221227102/10000100000000060000000009847243_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="通许综合" tvg-name="通许综合" tvg-logo="https://epg.112114.xyz/logo/通许综合.png" group-title="其他",通许综合
+#EXTINF:-1,tvg-id="通许综合" tvg-name="通许综合" tvg-logo="https://epg.112114.xyz/logo/通许综合.png" group-title="省内地方",通许综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227150/377238472.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="卫辉电视台" tvg-name="卫辉电视台" tvg-logo="https://epg.112114.xyz/logo/卫辉电视台.png" group-title="其他",卫辉电视台
+#EXTINF:-1,tvg-id="卫辉电视台" tvg-name="卫辉电视台" tvg-logo="https://epg.112114.xyz/logo/卫辉电视台.png" group-title="省内地方",卫辉电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227164/377238022.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="项城电视台" tvg-name="项城电视台" tvg-logo="https://epg.112114.xyz/logo/项城电视台.png" group-title="其他",项城电视台
+#EXTINF:-1,tvg-id="项城电视台" tvg-name="项城电视台" tvg-logo="https://epg.112114.xyz/logo/项城电视台.png" group-title="省内地方",项城电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227117/377237400.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="舞钢电视台" tvg-name="舞钢电视台" tvg-logo="https://epg.112114.xyz/logo/舞钢电视台.png" group-title="其他",舞钢电视台
+#EXTINF:-1,tvg-id="舞钢电视台" tvg-name="舞钢电视台" tvg-logo="https://epg.112114.xyz/logo/舞钢电视台.png" group-title="省内地方",舞钢电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227132/377237290.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="舞阳新闻综合" tvg-name="舞阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/舞阳新闻综合.png" group-title="其他",舞阳新闻综合
+#EXTINF:-1,tvg-id="舞阳新闻综合" tvg-name="舞阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/舞阳新闻综合.png" group-title="省内地方",舞阳新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227147/377237665.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="西平电视台" tvg-name="西平电视台" tvg-logo="https://epg.112114.xyz/logo/西平电视台.png" group-title="其他",西平电视台
+#EXTINF:-1,tvg-id="西平电视台" tvg-name="西平电视台" tvg-logo="https://epg.112114.xyz/logo/西平电视台.png" group-title="省内地方",西平电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227170/377237995.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="淅川电视台" tvg-name="淅川电视台" tvg-logo="https://epg.112114.xyz/logo/淅川电视台.png" group-title="其他",淅川电视台
+#EXTINF:-1,tvg-id="淅川电视台" tvg-name="淅川电视台" tvg-logo="https://epg.112114.xyz/logo/淅川电视台.png" group-title="省内地方",淅川电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227168/377237806.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="新蔡综合" tvg-name="新蔡综合" tvg-logo="https://epg.112114.xyz/logo/新蔡综合.png" group-title="其他",新蔡综合
+#EXTINF:-1,tvg-id="新蔡综合" tvg-name="新蔡综合" tvg-logo="https://epg.112114.xyz/logo/新蔡综合.png" group-title="省内地方",新蔡综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227166/377237902.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="延津电视台" tvg-name="延津电视台" tvg-logo="https://epg.112114.xyz/logo/延津电视台.png" group-title="其他",延津电视台
+#EXTINF:-1,tvg-id="延津电视台" tvg-name="延津电视台" tvg-logo="https://epg.112114.xyz/logo/延津电视台.png" group-title="省内地方",延津电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227089/10000100000000060000000009847257_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="叶县电视台" tvg-name="叶县电视台" tvg-logo="https://epg.112114.xyz/logo/叶县电视台.png" group-title="其他",叶县电视台
+#EXTINF:-1,tvg-id="叶县电视台" tvg-name="叶县电视台" tvg-logo="https://epg.112114.xyz/logo/叶县电视台.png" group-title="省内地方",叶县电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227134/377238670.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="宜阳综合" tvg-name="宜阳综合" tvg-logo="https://epg.112114.xyz/logo/宜阳综合.png" group-title="其他",宜阳综合
+#EXTINF:-1,tvg-id="宜阳综合" tvg-name="宜阳综合" tvg-logo="https://epg.112114.xyz/logo/宜阳综合.png" group-title="省内地方",宜阳综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227133/377238540.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="义马电视台" tvg-name="义马电视台" tvg-logo="https://epg.112114.xyz/logo/义马电视台.png" group-title="其他",义马电视台
+#EXTINF:-1,tvg-id="义马电视台" tvg-name="义马电视台" tvg-logo="https://epg.112114.xyz/logo/义马电视台.png" group-title="省内地方",义马电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227106/10000100000000060000000009847245_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="荥阳综合频道" tvg-name="荥阳综合频道" tvg-logo="https://epg.112114.xyz/logo/荥阳综合.png" group-title="其他",荥阳综合频道
+#EXTINF:-1,tvg-id="荥阳综合频道" tvg-name="荥阳综合频道" tvg-logo="https://epg.112114.xyz/logo/荥阳综合.png" group-title="省内地方",荥阳综合频道
 http://39.134.231.232:6610/PLTV/88888888/224/3221227156/377237740.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="永成新闻综合" tvg-name="永成新闻综合" tvg-logo="https://epg.112114.xyz/logo/永成新闻综合.png" group-title="其他",永成新闻综合
+#EXTINF:-1,tvg-id="永成新闻综合" tvg-name="永成新闻综合" tvg-logo="https://epg.112114.xyz/logo/永成新闻综合.png" group-title="省内地方",永成新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227131/377238416.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CCTV娱乐" tvg-name="CCTV娱乐" tvg-logo="https://epg.112114.xyz/logo/CCTV娱乐.png" group-title="其他",娱乐
+#EXTINF:-1,tvg-id="河南IPTV" tvg-name="河南IPTV" tvg-logo="https://epg.112114.xyz/logo/河南IPTV.png" group-title="省内地方",河南IPTV
 http://39.134.231.232:6610/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="禹州电视台" tvg-name="禹州电视台" tvg-logo="https://epg.112114.xyz/logo/禹州电视台.png" group-title="其他",禹州电视台
+#EXTINF:-1,tvg-id="禹州电视台" tvg-name="禹州电视台" tvg-logo="https://epg.112114.xyz/logo/禹州电视台.png" group-title="省内地方",禹州电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227127/377237611.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="原阳电视台" tvg-name="原阳电视台" tvg-logo="https://epg.112114.xyz/logo/原阳电视台.png" group-title="其他",原阳电视台
+#EXTINF:-1,tvg-id="原阳电视台" tvg-name="原阳电视台" tvg-logo="https://epg.112114.xyz/logo/原阳电视台.png" group-title="省内地方",原阳电视台
 http://39.134.231.232:6610/PLTV/88888888/224/3221227092/10000100000000060000000009819020_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="镇平新闻综合" tvg-name="镇平新闻综合" tvg-logo="https://epg.112114.xyz/logo/镇平新闻综合.png" group-title="其他",镇平新闻综合
+#EXTINF:-1,tvg-id="镇平新闻综合" tvg-name="镇平新闻综合" tvg-logo="https://epg.112114.xyz/logo/镇平新闻综合.png" group-title="省内地方",镇平新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227153/377238010.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
