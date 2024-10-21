@@ -9,7 +9,7 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221227119/377237461.smil/index.m3u
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227138/377237499.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227158/377237688.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="嵩县" tvg-name="嵩县" tvg-logo="https://epg.112114.xyz/logo/嵩县.png" group-title="其他",嵩县
+#EXTINF:-1,tvg-id="嵩县" tvg-name="嵩县" tvg-logo="https://epg.112114.xyz/logo/嵩县.png" group-title="省内地方",嵩县
 http://39.134.231.232:6610/PLTV/88888888/224/3221227172/377237715.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://39.134.231.232:6610/PLTV/88888888/224/3221226970/10000100000000060000000008219358_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -53,8 +53,6 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221227217/380340955.smil/index.m3u
 http://39.134.231.232:6610/PLTV/88888888/224/3221226976/10000100000000060000000008219344_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",中央新影-老故事
 http://39.134.231.232:6610/PLTV/88888888/224/3221227136/377238577.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产
-http://39.134.231.232:6610/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南IPTV-导视" tvg-name="河南IPTV-导视" tvg-logo="https://epg.112114.xyz/logo/河南IPTV导视.png" group-title="河南",河南IPTV-导视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226934/10000100000000060000000008219394_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
@@ -79,6 +77,8 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226948/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221226915/10000100000000060000000008219385_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南移动电视" tvg-name="河南移动电视" tvg-logo="https://epg.112114.xyz/logo/河南移动电视.png" group-title="河南",河南移动电视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产
+http://39.134.231.232:6610/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://epg.112114.xyz/logo/睛彩中原.png" group-title="其他",睛彩中原
 http://39.134.231.232:6610/PLTV/88888888/224/3221226927/10000100000000060000000008219373_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://epg.112114.xyz/logo/移动戏曲.png" group-title="其他",移动戏曲
