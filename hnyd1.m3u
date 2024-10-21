@@ -9,8 +9,6 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221227119/377237461.smil/index.m3u
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227138/377237499.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227158/377237688.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="嵩县" tvg-name="嵩县" tvg-logo="https://epg.112114.xyz/logo/嵩县.png" group-title="省内地方",嵩县
-http://39.134.231.232:6610/PLTV/88888888/224/3221227172/377237715.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://39.134.231.232:6610/PLTV/88888888/224/3221226970/10000100000000060000000008219358_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
@@ -403,3 +401,5 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221227127/377237611.smil/index.m3u
 http://39.134.231.232:6610/PLTV/88888888/224/3221227092/10000100000000060000000009819020_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="镇平新闻综合" tvg-name="镇平新闻综合" tvg-logo="https://epg.112114.xyz/logo/镇平新闻综合.png" group-title="省内地方",镇平新闻综合
 http://39.134.231.232:6610/PLTV/88888888/224/3221227153/377238010.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="嵩县" tvg-name="嵩县" tvg-logo="https://epg.112114.xyz/logo/嵩县.png" group-title="省内地方",嵩县
+http://39.134.231.232:6610/PLTV/88888888/224/3221227172/377237715.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
