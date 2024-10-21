@@ -38,7 +38,7 @@ http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226956/10000100000000060
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/10000100000000060000000008219381_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
-http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227157/377237775.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227157/377237775.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/10000100000000060000000008219370_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
