@@ -4,8 +4,6 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226917/100001000000000600000000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227113/377237187.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://39.134.231.232:6610/PLTV/88888888/224/3221227119/377237461.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227138/377237499.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 #http://39.134.231.232:6610/PLTV/88888888/224/3221227158/377237688.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
@@ -403,3 +401,5 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221227092/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221227153/377238010.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="嵩县" tvg-name="嵩县" tvg-logo="https://epg.112114.xyz/logo/嵩县.png" group-title="省内地方",嵩县
 http://39.134.231.232:6610/PLTV/88888888/224/3221227172/377237715.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://epg.112114.xyz/logo/邓州综合.png" group-title="省内地方",邓州综合
+http://39.134.231.232:6610/PLTV/88888888/224/3221227119/377237461.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
