@@ -240,14 +240,20 @@ http://lx.haoyuhuojia.com:4022/udp/233.50.201.63:5140
 #EXTINF:-1,tvg-id="BesTV4K-34M2160HEVC" tvg-name="BesTV4K-34M2160HEVC" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png" group-title="4K频道",百视通4K
 #http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000202/1.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=CHC
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=CHC
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+#EXTINF:-1,tvg-id="CHC影迷影院" tvg-name="CHC影迷影院" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC影迷影院
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
+http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
+http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1,tvg-id="CHC影迷影院" tvg-name="CHC影迷影院" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC影迷影院
+http://60.255.240.247:8090/live/lnwsCHC-HDH265_4000.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1,tvg-id="CGTN 阿拉伯语" tvg-name="CGTN 阿拉伯语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿拉伯语.png" group-title="央视",CGTN 阿拉伯语
@@ -280,6 +286,8 @@ http://lx.haoyuhuojia.com:4022/udp/233.50.202.36:5140
 #http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 #http://iptv.weai.love/live/88888888/fhzx.m3u8
+#EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.112114.xyz/logo/凤凰电影.png" group-title="香港",凤凰电影
+http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港",凤凰香港
 #http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="Plus即时频道" tvg-name="Plus即时频道" tvg-logo="https://epg.112114.xyz/logo/PLUS即时.png" group-title="香港",Plus即时频道
@@ -349,6 +357,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226403/index.m3u8 
 #EXTINF:-1,tvg-id="郑州都市生活" tvg-name="郑州都市生活" tvg-logo="https://epg.112114.xyz/logo/郑州都市生活.png" group-title="其他",郑州都市生活
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1,tvg-id="郑州教育" tvg-name="郑州教育" tvg-logo="https://epg.112114.xyz/logo/郑州教育.png" group-title="其他",郑州教育
+http://39.135.168.39/wh7f454c46tw3240039188_1875328192/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227383/index.m3u8?icpid=88888888&RTS=1730995319&from=1&hms_devid=18455&vqe=3
+#EXTINF:-1,tvg-id="郑州教育" tvg-name="郑州教育" tvg-logo="https://epg.112114.xyz/logo/郑州教育.png" group-title="其他",郑州教育
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227383/index.m3u8
 #EXTINF:-1,tvg-id="CNA新闻" tvg-name="CNA新闻" tvg-logo="https://epg.112114.xyz/logo/CNA新闻.png" group-title="海外",新加坡CNA亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="海外",日本NHK世界
