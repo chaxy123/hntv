@@ -211,6 +211,33 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="其他",上海纪实
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8
+#EXTM3U
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="其他",北京卫视
+http://ruige2024.serv00.net/beijing.php?id=bjws&index.m3u8
+#EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" group-title="其他",BRTV文艺
+http://ruige2024.serv00.net/beijing.php?id=bjwy&index.m3u8
+#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实科教.png" group-title="其他",BRTV纪实科教
+http://ruige2024.serv00.net/beijing.php?id=bjkj&index.m3u8
+#EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://epg.112114.xyz/logo/BRTV影视.png" group-title="其他",BRTV影视
+http://ruige2024.serv00.net/beijing.php?id=bjys&index.m3u8
+#EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" group-title="其他",BRTV财经
+http://ruige2024.serv00.net/beijing.php?id=bjcj&index.m3u8
+#EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" group-title="其他",BRTV生活
+http://ruige2024.serv00.net/beijing.php?id=bjsh&index.m3u8
+#EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" group-title="其他",BRTV新闻
+http://ruige2024.serv00.net/beijing.php?id=bjxw&index.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+http://ruige2024.serv00.net/beijing.php?id=bjse&index.m3u8
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" group-title="其他",江苏城市
+http://gxctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" group-title="其他",江苏影视
+http://gxctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
+#EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png" group-title="其他",江苏综艺
+http://gxctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
+#EXTINF:-1,tvg-id="江苏教育电视台" tvg-name="江苏教育电视台" tvg-logo="https://epg.112114.xyz/logo/江苏教育电视台.png" group-title="其他",江苏教育
+http://gxctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
+#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://epg.112114.xyz/logo/江苏新闻.png" group-title="其他",江苏新闻
+http://gxctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",湖南金鹰纪实
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="其他",北京体育休闲
