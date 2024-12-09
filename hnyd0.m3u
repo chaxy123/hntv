@@ -453,7 +453,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227153/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227162/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="郏县综合" tvg-name="郏县综合" tvg-logo="https://epg.112114.xyz/logo/郏县综合.png" group-title="县区",郏县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227155/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="XATV综合" tvg-name="XATV综合" tvg-logo="https://epg.112114.xyz/logo/XATV综合.png" group-title="县区",XATV综合
+#EXTINF:-1,tvg-id="新安综合" tvg-name="新安综合" tvg-logo="https://epg.112114.xyz/logo/新安综合.png" group-title="县区",新安综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227297/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="淇县电视台" tvg-name="淇县电视台" tvg-logo="https://epg.112114.xyz/logo/淇县电视台.png" group-title="县区",淇县电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227161/1.m3u8?fmt=ts2hls&amp;icpid=
