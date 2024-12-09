@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226841/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226841/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227139/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227139/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 #http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226833/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
@@ -187,7 +187,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227373/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226882/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="其他",北京纪实科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227379/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226845/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -199,7 +199,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226877/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CITY都市剧场
+#EXTINF:-1,tvg-id="CITY都市剧场" tvg-name="CITY都市剧场" tvg-logo="https://epg.112114.xyz/logo/CITY都市剧场.png" group-title="其他",CITY都市剧场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226884/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226910/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -393,7 +393,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227094/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227092/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="郸城电视台" tvg-name="郸城电视台" tvg-logo="https://epg.112114.xyz/logo/郸城电视台.png" group-title="县区",郸城电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227087/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="BTV1" tvg-name="BTV1" tvg-logo="https://epg.112114.xyz/logo/BTV1.png" group-title="北京",BTV1
+#EXTINF:-1,tvg-id="BTV1" tvg-name="BTV1" tvg-logo="https://epg.112114.xyz/logo/BTV1.png" group-title="其他",BTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227102/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.112114.xyz/logo/义马综合.png" group-title="县区",义马综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227106/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -439,7 +439,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227134/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227149/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="光山综合" tvg-name="光山综合" tvg-logo="https://epg.112114.xyz/logo/光山综合.png" group-title="县区",光山综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227148/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="Y综合频道" tvg-name="Y综合频道" tvg-logo="https://epg.112114.xyz/logo/Y综合.png" group-title="县区",Y综合频道
+#EXTINF:-1,tvg-id="Y新密综合" tvg-name="Y新密综合" tvg-logo="https://epg.112114.xyz/logo/新密综合.png" group-title="县区",新密综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227152/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="卫辉综合" tvg-name="卫辉综合" tvg-logo="https://epg.112114.xyz/logo/卫辉综合.png" group-title="县区",卫辉综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227164/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -491,7 +491,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227353/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227398/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="LO新闻频道" tvg-name="LO新闻频道" tvg-logo="https://epg.112114.xyz/logo/LO新闻.png" group-title="县区",LO新闻频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227406/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="浚县TV[1024x576]" tvg-name="浚县TV[1024x576]" tvg-logo="https://epg.112114.xyz/logo/浚县TV.png" group-title="县区",浚县TV[1024x576]
+#EXTINF:-1,tvg-id="浚县TV" tvg-name="浚县TV" tvg-logo="https://epg.112114.xyz/logo/浚县TV.png" group-title="县区",浚县TV
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227342/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="汤阴电视台" tvg-name="汤阴电视台" tvg-logo="https://epg.112114.xyz/logo/汤阴电视台.png" group-title="县区",汤阴电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227378/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -501,70 +501,70 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227374/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227376/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="W新闻综合" tvg-name="W新闻综合" tvg-logo="https://epg.112114.xyz/logo/W新闻综合.png" group-title="县区",W新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227380/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="其他",NBA
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227306/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="游戏4K" tvg-name="游戏4K" tvg-logo="https://epg.112114.xyz/logo/游戏4K.png" group-title="其他",游戏4K
+#EXTINF:-1,tvg-id="咪咕视频4K" tvg-name="咪咕视频4K" tvg-logo="https://epg.112114.xyz/logo/咪咕视频4K.png" group-title="其他",咪咕视频4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227285/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227229/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227269/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227269/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227263/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227260/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227260/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227279/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227279/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227258/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227258/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227275/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227275/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227281/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227281/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227261/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227261/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227265/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227265/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227289/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227290/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227290/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227288/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227292/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227292/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227286/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227267/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227267/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227271/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227277/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227277/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227287/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227291/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227291/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227294/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227294/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227298/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227298/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227310/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227310/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227300/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227300/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227302/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227302/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227316/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227296/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227296/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227308/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227308/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227314/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227312/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227312/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227336/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="百视通TV" tvg-name="百视通TV" tvg-logo="https://epg.112114.xyz/logo/百视通TV.png" group-title="其他",百视通TV
