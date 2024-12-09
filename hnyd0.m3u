@@ -381,9 +381,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226862/1.m3u8?fmt=ts2hl
 #http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="上蔡1" tvg-name="上蔡1" tvg-logo="https://epg.112114.xyz/logo/上蔡1.png" group-title="县区",上蔡1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227073/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="RTV综合频道" tvg-name="RTV综合频道" tvg-logo="https://epg.112114.xyz/logo/RTV综合.png" group-title="县区",RTV综合频道
+#EXTINF:-1,tvg-id="汝阳综合频道" tvg-name="汝阳综合频道" tvg-logo="https://epg.112114.xyz/logo/汝阳综合.png" group-title="县区",汝阳综合频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227077/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="Q新闻综合" tvg-name="Q新闻综合" tvg-logo="https://epg.112114.xyz/logo/Q新闻综合.png" group-title="县区",Q新闻综合
+#EXTINF:-1,tvg-id="杞县新闻综合" tvg-name="杞县新闻综合" tvg-logo="https://epg.112114.xyz/logo/杞县新闻综合.png" group-title="县区",杞县新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227085/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="延津电视台" tvg-name="延津电视台" tvg-logo="https://epg.112114.xyz/logo/延津电视台.png" group-title="县区",延津电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227089/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -403,7 +403,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227120/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227116/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="淮滨综合" tvg-name="淮滨综合" tvg-logo="https://epg.112114.xyz/logo/淮滨综合.png" group-title="县区",淮滨综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227128/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="寰宇HD综合" tvg-name="寰宇HD综合" tvg-logo="https://epg.112114.xyz/logo/寰宇HD综合.png" group-title="县区",D综合
+#EXTINF:-1,tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://epg.112114.xyz/logo/邓州综合.png" group-title="县区",邓州综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227119/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="X综合" tvg-name="X综合" tvg-logo="https://epg.112114.xyz/logo/X综合.png" group-title="县区",X综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227125/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -439,15 +439,15 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227134/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227149/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="光山综合" tvg-name="光山综合" tvg-logo="https://epg.112114.xyz/logo/光山综合.png" group-title="县区",光山综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227148/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="Y新密综合" tvg-name="Y新密综合" tvg-logo="https://epg.112114.xyz/logo/新密综合.png" group-title="县区",新密综合
+#EXTINF:-1,tvg-id="新密综合" tvg-name="新密综合" tvg-logo="https://epg.112114.xyz/logo/新密综合.png" group-title="县区",新密综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227152/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="卫辉综合" tvg-name="卫辉综合" tvg-logo="https://epg.112114.xyz/logo/卫辉综合.png" group-title="县区",卫辉综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227164/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="长垣综合" tvg-name="长垣综合" tvg-logo="https://epg.112114.xyz/logo/长垣综合.png" group-title="县区",长垣综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227328/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="LO综合" tvg-name="LO综合" tvg-logo="https://epg.112114.xyz/logo/LO综合.png" group-title="县区",LO综合
+#EXTINF:-1,tvg-id="lo综合" tvg-name="lo综合" tvg-logo="https://epg.112114.xyz/logo/lo综合.png" group-title="县区",lo综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227156/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="县区",Z综合
+#EXTINF:-1,tvg-id="镇平综合" tvg-name="镇平综合" tvg-logo="https://epg.112114.xyz/logo/镇平综合.png" group-title="县区",镇平综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227153/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="MCTV新闻综合" tvg-name="MCTV新闻综合" tvg-logo="https://epg.112114.xyz/logo/MCTV新闻综合.png" group-title="县区",MCTV新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227162/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -459,17 +459,17 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227297/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227161/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="孟州综合" tvg-name="孟州综合" tvg-logo="https://epg.112114.xyz/logo/孟州综合.png" group-title="县区",孟州综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227160/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="XCTV" tvg-name="XCTV" tvg-logo="https://epg.112114.xyz/logo/XCTV.png" group-title="县区",XCTV
+#EXTINF:-1,tvg-id="新蔡TV" tvg-name="新蔡TV" tvg-logo="https://epg.112114.xyz/logo/新蔡TV.png" group-title="县区",新蔡TV
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227166/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="M综合新闻" tvg-name="M综合新闻" tvg-logo="https://epg.112114.xyz/logo/M综合新闻.png" group-title="县区",M综合新闻
+#EXTINF:-1,tvg-id="嵩县综合新闻" tvg-name="嵩县综合新闻" tvg-logo="https://epg.112114.xyz/logo/嵩县综合新闻.png" group-title="县区",嵩县综合新闻
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227172/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="淅川电视台" tvg-name="淅川电视台" tvg-logo="https://epg.112114.xyz/logo/淅川电视台.png" group-title="县区",淅川电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227168/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="平教育台[1920x1080]" tvg-name="平教育台[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/平教育台.png" group-title="县区",平教育台[1920x1080]
+#EXTINF:-1,tvg-id="平顶山教育台" tvg-name="平顶山教育台" tvg-logo="https://epg.112114.xyz/logo/平顶山教育台.png" group-title="县区",平顶山教育台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227215/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="陕州综合" tvg-name="陕州综合" tvg-logo="https://epg.112114.xyz/logo/陕州综合.png" group-title="县区",陕州综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227221/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="一TV1" tvg-name="一TV1" tvg-logo="https://epg.112114.xyz/logo/一TV1.png" group-title="县区",一TV1
+#EXTINF:-1,tvg-id="方城TV1" tvg-name="方城TV1" tvg-logo="https://epg.112114.xyz/logo/方城TV1.png" group-title="县区",方城TV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227252/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="滑县TV" tvg-name="滑县TV" tvg-logo="https://epg.112114.xyz/logo/滑县TV.png" group-title="县区",滑县TV
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227227/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -489,7 +489,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227324/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227353/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="遂平综合" tvg-name="遂平综合" tvg-logo="https://epg.112114.xyz/logo/遂平综合.png" group-title="县区",遂平综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227398/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="LO新闻频道" tvg-name="LO新闻频道" tvg-logo="https://epg.112114.xyz/logo/LO新闻.png" group-title="县区",LO新闻频道
+#EXTINF:-1,tvg-id="兰考新闻频道" tvg-name="兰考新闻频道" tvg-logo="https://epg.112114.xyz/logo/兰考新闻.png" group-title="县区",兰考新闻频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227406/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="浚县TV" tvg-name="浚县TV" tvg-logo="https://epg.112114.xyz/logo/浚县TV.png" group-title="县区",浚县TV
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227342/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -499,7 +499,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227378/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227374/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="祥符电视台" tvg-name="祥符电视台" tvg-logo="https://epg.112114.xyz/logo/祥符电视台.png" group-title="县区",祥符电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227376/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="W新闻综合" tvg-name="W新闻综合" tvg-logo="https://epg.112114.xyz/logo/W新闻综合.png" group-title="县区",W新闻综合
+#EXTINF:-1,tvg-id="林州新闻综合" tvg-name="林州新闻综合" tvg-logo="https://epg.112114.xyz/logo/林州新闻综合.png" group-title="县区",林州新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227380/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227306/1.m3u8?fmt=ts2hls&amp;icpid=
