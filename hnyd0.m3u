@@ -393,7 +393,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227094/1.m3u8?fmt=ts2hl
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227092/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="郸城电视台" tvg-name="郸城电视台" tvg-logo="https://epg.112114.xyz/logo/郸城电视台.png" group-title="县区",郸城电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227087/1.m3u8?fmt=ts2hls&amp;icpid=
-#EXTINF:-1,tvg-id="BTV1" tvg-name="BTV1" tvg-logo="https://epg.112114.xyz/logo/BTV1.png" group-title="其他",BTV1
+#EXTINF:-1,tvg-id="BTV1" tvg-name="BTV1" tvg-logo="https://epg.112114.xyz/logo/BTV1.png" group-title="县区",BTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227102/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.112114.xyz/logo/义马综合.png" group-title="县区",义马综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227106/1.m3u8?fmt=ts2hls&amp;icpid=
@@ -510,7 +510,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227285/1.m3u8?fmt=ts2hl
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 #http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227269/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227263/1.m3u8?fmt=ts2hls&amp;icpid=
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227263/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
 #http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227260/1.m3u8?fmt=ts2hls&amp;icpid=
 #EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕视频
