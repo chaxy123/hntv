@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+import os
+os.environ.setdefault('FORKED_BY_MULTIPROCESSING','1')
 
 jobs:
   build:
