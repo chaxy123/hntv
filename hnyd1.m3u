@@ -41,10 +41,6 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226958/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221226524/10000100000000060000000008071943_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 http://39.134.231.232:6610/PLTV/88888888/224/3221226954/10000100000000060000000008219374_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
-http://39.134.231.232:6610/PLTV/88888888/224/3221226974/10000100000000060000000008219353_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV-4
-http://39.134.231.232:6610/PLTV/88888888/224/3221227217/380340955.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://39.134.231.232:6610/PLTV/88888888/224/3221226976/10000100000000060000000008219344_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",中央新影-老故事
@@ -161,6 +157,10 @@ http://39.134.231.232:6610/PLTV/88888888/224/3221226994/100001000000000600000000
 http://39.134.231.232:6610/PLTV/88888888/224/3221226982/10000100000000060000000008223498_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://39.134.231.232:6610/PLTV/88888888/224/3221226990/10000100000000060000000008223493_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
+http://39.134.231.232:6610/PLTV/88888888/224/3221226974/10000100000000060000000008219353_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV-4
+http://39.134.231.232:6610/PLTV/88888888/224/3221227217/380340955.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="https://epg.112114.xyz/logo/湖南快乐购.png" group-title="其他",湖南快乐购
 http://39.134.231.232:6610/PLTV/88888888/224/3221227135/377237586.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
