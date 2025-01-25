@@ -46,7 +46,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K
 #https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+http://112.18.54.52:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",CCTV兵器科技
 #http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",CCTV第一剧场
@@ -212,11 +212,14 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="卡通",宝宝动画
 #https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+http://112.18.54.52:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="其他",求索生活
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+http://112.18.54.52:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="其他",求索科学
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+http://112.18.54.52:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1,tvg-id="求索4K" tvg-name="求索4K" tvg-logo="https://epg.112114.xyz/logo/求索4K.png" group-title="4K频道",求索4K
@@ -258,6 +261,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV8K
 http://223.105.252.57:80/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV8K
+http://112.18.54.52:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="北京科教8k" tvg-name="北京科教8k" tvg-logo="https://epg.112114.xyz/logo/北京科教8K.png" group-title="4K频道",北京科教8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K
@@ -272,17 +277,17 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://lx.haoyuhuojia.com:4022/udp/233.50.201.63:5140
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
-#http://cntv.sbs/live?id=cctv164k
+#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.112114.xyz/logo/华数4K.png" group-title="4K频道",华数4K
+http://112.18.54.52:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="4K测试-24M2160HEVC" tvg-name="4K测试-24M2160HEVC" tvg-logo="https://epg.112114.xyz/logo/4K测试.png" group-title="4K频道",4K测试
 #http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000459/1.m3u8
 #EXTINF:-1,tvg-id="BesTV4K-34M2160HEVC" tvg-name="BesTV4K-34M2160HEVC" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png" group-title="4K频道",百视通4K
 #http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000202/1.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=CHC
+https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=CHC
+https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-id="CHC影迷影院" tvg-name="CHC影迷影院" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC影迷影院
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
