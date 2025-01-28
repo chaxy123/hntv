@@ -41,16 +41,10 @@ http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/10000100000000060
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/10000100000000060000000008071943_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/10000100000000060000000008219374_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
-http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226974/10000100000000060000000008219353_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV-4
-http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227217/380340955.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/10000100000000060000000008219344_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",中央新影-老故事
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227136/377238577.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
-#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产
-http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南IPTV-导视" tvg-name="河南IPTV-导视" tvg-logo="https://epg.112114.xyz/logo/河南IPTV导视.png" group-title="河南",河南IPTV-导视
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226934/10000100000000060000000008219394_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
@@ -89,6 +83,12 @@ http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227126/10000100000000060
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227124/10000100000000060000000011665504_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.112114.xyz/logo/国学.png" group-title="河南",河南国学频道
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227154/377237602.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
+http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226974/10000100000000060000000008219353_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV-4
+http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227217/380340955.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产
+http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://epg.112114.xyz/logo/调解剧场.png" group-title="其他",调解剧场
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226966/10000100000000060000000008219360_0.smil/index.m3u8?fmt=ts2hls&amp;servicetype=1
 #EXTINF:-1,tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://epg.112114.xyz/logo/大美河南.png" group-title="其他",大美河南
