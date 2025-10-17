@@ -451,3 +451,11 @@ https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
 #EXTINF:-1,tvg-id="香港有线新闻" tvg-name="香港有线新闻" tvg-logo="https://epg.112114.xyz/logo/香港有线新闻.png" group-title="海外",香港有线新闻
 https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+#EXTINF:-1,tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://epg.112114.xyz/logo/韩国阿里郎.png" group-title="海外",韩国阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://epg.112114.xyz/logo/韩国阿里郎.png" group-title="海外",韩国阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" tvg-logo="https://epg.112114.xyz/logo/Taiwan Plus.png" group-title="海外",台湾Plus
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://epg.112114.xyz/logo/Wild Earth.png" group-title="海外",野生世界
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
