@@ -429,3 +429,25 @@ http://183.245.222.17:81/out_7/index.m3u8
 http://183.245.222.17:81/out_8/index.m3u8
 #EXTINF:-1,tvg-id="万豪旅享家" tvg-name="万豪旅享家" tvg-logo="https://epg.112114.xyz/logo/万豪旅享家.png" group-title="海外",万豪旅享家
 http://183.245.222.17:81/out_10/index.m3u8
+#EXTINF:-1,tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" group-title="海外",越南公安电视
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="海外",澳视澳门
+http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="海外",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="海外",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="海外",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="海外",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="海外",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1,tvg-id="緯來精采HD" tvg-name="緯來精采HD" tvg-logo="https://epg.112114.xyz/logo/緯來精采HD.png" group-title="海外",緯來精采HD
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1,tvg-id="香港電台普通話台" tvg-name="香港電台普通話台" tvg-logo="https://epg.112114.xyz/logo/香港電台普通話台.png" group-title="海外",香港電台普通話台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="海外",香港卫视
+https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
+#EXTINF:-1,tvg-id="香港有线新闻" tvg-name="香港有线新闻" tvg-logo="https://epg.112114.xyz/logo/香港有线新闻.png" group-title="海外",香港有线新闻
+https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
