@@ -412,50 +412,46 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227383/index.m3u8
 #EXTINF:-1,tvg-id="CNA新闻" tvg-name="CNA新闻" tvg-logo="https://epg.112114.xyz/logo/CNA新闻.png" group-title="海外",新加坡CNA亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="海外",日本NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="海外",阿拉伯半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,tvg-id="俄罗斯中文" tvg-name="俄罗斯中文" tvg-logo="https://epg.112114.xyz/logo/俄罗斯中文.png" group-title="海外",俄罗斯中文
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="海外",美国彭博财经
-http://183.245.222.17:81/out_3/index.m3u8
+#http://183.245.222.17:81/out_3/index.m3u8
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="海外",新力AXN电视
-http://183.245.222.17:81/out_5/index.m3u8
+#http://183.245.222.17:81/out_5/index.m3u8
 #EXTINF:-1,tvg-id="ChannelV" tvg-name="ChannelV" tvg-logo="https://epg.112114.xyz/logo/CHANNELV.png" group-title="香港",[V]星空卫视音乐
-http://183.245.222.17:81/out_6/index.m3u8
+#http://183.245.222.17:81/out_6/index.m3u8
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="香港",星空卫视
-http://183.245.222.17:81/out_7/index.m3u8
+#http://183.245.222.17:81/out_7/index.m3u8
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="香港",澳亚卫视
-http://183.245.222.17:81/out_8/index.m3u8
-#EXTINF:-1,tvg-id="万豪旅享家" tvg-name="万豪旅享家" tvg-logo="https://epg.112114.xyz/logo/万豪旅享家.png" group-title="海外",万豪旅享家
-http://183.245.222.17:81/out_10/index.m3u8
+#http://183.245.222.17:81/out_8/index.m3u8
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="香港",澳亚卫视
+http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1,tvg-id="万豪旅享家" tvg-name="万豪旅享家" tvg-logo="https://epg.112114.xyz/logo/万豪旅享家.png" group-title="香港",万豪旅享家
+#http://183.245.222.17:81/out_10/index.m3u8
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="香港",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1,tvg-id="緯來精采HD" tvg-name="緯來精采HD" tvg-logo="https://epg.112114.xyz/logo/緯來精采HD.png" group-title="香港",緯來精采HD
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1,tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" tvg-logo="https://epg.112114.xyz/logo/Taiwan Plus.png" group-title="香港",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,tvg-id="香港有线新闻" tvg-name="香港有线新闻" tvg-logo="https://epg.112114.xyz/logo/香港有线新闻.png" group-title="香港",香港有线新闻
+https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
 #EXTINF:-1,tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" group-title="海外",越南公安电视
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="海外",澳视澳门
-http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="海外",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="海外",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="海外",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="海外",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="海外",民视新闻台
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1,tvg-id="緯來精采HD" tvg-name="緯來精采HD" tvg-logo="https://epg.112114.xyz/logo/緯來精采HD.png" group-title="海外",緯來精采HD
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1,tvg-id="香港電台普通話台" tvg-name="香港電台普通話台" tvg-logo="https://epg.112114.xyz/logo/香港電台普通話台.png" group-title="海外",香港電台普通話台
-https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
-#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="海外",香港卫视
-https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
-#EXTINF:-1,tvg-id="香港有线新闻" tvg-name="香港有线新闻" tvg-logo="https://epg.112114.xyz/logo/香港有线新闻.png" group-title="海外",香港有线新闻
-https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
 #EXTINF:-1,tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://epg.112114.xyz/logo/韩国阿里郎.png" group-title="海外",韩国阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://epg.112114.xyz/logo/韩国阿里郎.png" group-title="海外",韩国阿里郎
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" tvg-logo="https://epg.112114.xyz/logo/Taiwan Plus.png" group-title="海外",台湾Plus
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://epg.112114.xyz/logo/Wild Earth.png" group-title="海外",野生世界
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
