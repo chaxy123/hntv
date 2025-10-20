@@ -521,6 +521,8 @@ rtmp://f13h.mine.nu:1935/sat/tv091
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1,tvg-id="astro aod" tvg-name="astro aod" tvg-logo="https://epg.112114.xyz/logo/astro aod.png" group-title="海外",马来西亚寰宇电视
 https://stream1.freetv.fun/5116dfb07094845e2ce7e76921800a2bccacf3212b48e6585163f2a45735aa84.ctv
+#EXTINF:-1,tvg-id="astro aec" tvg-name="astro aec" tvg-logo="https://epg.112114.xyz/logo/astro aec.png" group-title="海外",马来西亚亚洲娱电视
+https://stream1.freetv.fun/3f7ae1e13fad12ee9f5db75195817c7a80843b8b937f2e63429d24029e96abfb.ctv
 #EXTINF:-1,tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" group-title="海外",越南公安电视
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1,tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://epg.112114.xyz/logo/韩国阿里郎.png" group-title="海外",韩国阿里郎
