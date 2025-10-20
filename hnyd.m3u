@@ -331,7 +331,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 #EXTINF:-1,tvg-id="中国早期教育" tvg-name="中国早期教育" tvg-logo="https://epg.112114.xyz/logo/中国早期教育.png" group-title="其他",中国早期教育
 http://36.129.204.120:65501/3012.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-#http://123.51.230.108:8515/.m3u8
+https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.ctv
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 #http://107.151.203.111:2209/135/hk.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
@@ -451,6 +451,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
+https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1,tvg-id="万豪旅享家" tvg-name="万豪旅享家" tvg-logo="https://epg.112114.xyz/logo/万豪旅享家.png" group-title="香港",万豪旅享家
@@ -493,10 +495,30 @@ https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 #EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="香港",龙华偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="香港",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
 #EXTINF:-1,tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.112114.xyz/logo/龙华日韩.png" group-title="香港",龙华日韩
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1,tvg-id="美亚C+" tvg-name="美亚C+" tvg-logo="https://epg.112114.xyz/logo/美亚C+.png" group-title="香港",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.112114.xyz/logo/人间卫视.png" group-title="香港",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.112114.xyz/logo/人间卫视.png" group-title="香港",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1,tvg-id="時尚台FTV" tvg-name="時尚台FTV" tvg-logo="https://epg.112114.xyz/logo/時尚台FTV.png" group-title="海外",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,tvg-id="時尚台FTV" tvg-name="時尚台FTV" tvg-logo="https://epg.112114.xyz/logo/時尚台FTV.png" group-title="海外",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="香港",公视
+rtmp://f13h.mine.nu:1935/sat/tv771
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="香港",公视
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" group-title="香港",緯來育樂
+rtmp://f13h.mine.nu:1935/sat/tv701
+#EXTINF:-1,tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" group-title="香港",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="香港",中視
+rtmp://f13h.mine.nu:1935/sat/tv091
+#EXTINF:-1,tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐.png" group-title="香港",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1,tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" group-title="海外",越南公安电视
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1,tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://epg.112114.xyz/logo/韩国阿里郎.png" group-title="海外",韩国阿里郎
