@@ -310,13 +310,16 @@ http://112.18.54.52:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="BesTV4K-34M2160HEVC" tvg-name="BesTV4K-34M2160HEVC" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png" group-title="4K频道",百视通4K
 #http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000202/1.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-id="CHC影迷影院" tvg-name="CHC影迷影院" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC影迷影院
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
 http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8
