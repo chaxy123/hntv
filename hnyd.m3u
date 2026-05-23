@@ -288,9 +288,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="4K频道",东方卫视4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV8K
-http://223.105.252.57:80/PLTV/3/224/3221228165/index.m3u8
+http://107.150.52.50:82/live/cctv8k.m3u8
+#http://223.105.252.57:80/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV8K
-http://112.18.54.52:35455/gaoma/cctv8k_36m.m3u8
+http://47.97.252.137:8084/tvlive/cctv8k.m3u8
+#http://112.18.54.52:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="北京科教8k" tvg-name="北京科教8k" tvg-logo="https://epg.112114.xyz/logo/北京科教8K.png" group-title="4K频道",北京科教8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K
