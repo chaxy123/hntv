@@ -352,9 +352,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 #EXTINF:-1,tvg-id="中国早期教育" tvg-name="中国早期教育" tvg-logo="https://epg.112114.xyz/logo/中国早期教育.png" group-title="其他",中国早期教育
 http://36.129.204.120:65501/3012.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.ctv
+http://www.zyxrmt.cn:8009/hls/71/index.m3u8
+#https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.ctv
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+http://www.zyxrmt.cn:8009/hls/70/index.m3u8
+#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 #http://lx.haoyuhuojia.com:4022/udp/233.50.202.36:5140
 #EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.112114.xyz/logo/凤凰电影.png" group-title="香港",凤凰电影
