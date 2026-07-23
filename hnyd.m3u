@@ -12,8 +12,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8
 #http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6电影
-#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227462/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227462/index.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8 
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8电视剧
