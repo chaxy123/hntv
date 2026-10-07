@@ -218,7 +218,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227212/index.m3u8
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="卡通",炫动卡通
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="卡通",炫动卡通
-http://lx.haoyuhuojia.com:4022/udp/233.50.200.167:5140
+#http://lx.haoyuhuojia.com:4022/udp/233.50.200.167:5140
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="卡通",优漫卡通
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="卡通",动漫秀场
