@@ -188,7 +188,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227375/index.m3u8
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name=""三沙卫视" tvg-logo="https://epg.112114.xyz/logo/"三沙卫视.png" group-title="卫视",三沙卫视
-http://lx.haoyuhuojia.com:4022/udp/233.50.200.175:5140
+#http://lx.haoyuhuojia.com:4022/udp/233.50.200.175:5140
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name=""三沙卫视" tvg-logo="https://epg.112114.xyz/logo/"三沙卫视.png" group-title="卫视",三沙卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
@@ -212,9 +212,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="卡通",嘉佳卡通
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8 
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="卡通",卡酷少儿
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227212/index.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="卡通",卡酷少儿
-http://lx.haoyuhuojia.com:4022/udp/233.50.200.166:5140
+#http://lx.haoyuhuojia.com:4022/udp/233.50.200.166:5140
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="卡通",炫动卡通
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="卡通",炫动卡通
